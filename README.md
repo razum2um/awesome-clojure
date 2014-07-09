@@ -45,25 +45,41 @@
 
 ## Database
 
+*Databases and database client libraries*
+
   * [Datomic](http://www.datomic.com/)
+  * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
+
+## Database Cli
 
 ## ORM and SQL generation
 
 *DSL for SQL generaion.*
 
   * [Korma](http://sqlkorma.com/)
+  * [stch-library/sql](https://github.com/stch-library/sql)
+  * [sqlingvo](https://github.com/r0man/sqlingvo)
+  * [honeysql](https://github.com/jkk/honeysql)
+
+## Security
+
+*Authentication, authorization and other security related libraries.*
+
+  * [Buddy](https://github.com/niwibe/buddy)
 
 ## RESTful API
 
 *Libraries for developing RESTful APIs.*
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
+  * [compojure-api](https://github.com/metosin/compojure-api)
 
 ## HTML Manipulation
 
 *Libraries for working with HTML.*
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
+  * [hiccup](https://github.com/weavejester/hiccup)
 
 ## Data validation
 
@@ -75,6 +91,12 @@
 ## Async processing
 
   * [core.async](https://github.com/clojure/core.async/)
+  * [pulsar](https://github.com/puniverse/pulsar)
+
+## Monads
+
+  * [cats](https://github.com/niwibe/cats)
+  * [algo.monads](https://github.com/clojure/algo.monads)
 
 ## WebSocket
 
