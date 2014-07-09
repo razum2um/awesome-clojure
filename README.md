@@ -99,7 +99,7 @@
 
 ## Websites
 
-  * [clojuredocs](clojuredocs.org)
+  * [clojuredocs](http://clojuredocs.org)
   * [crossclj](http://crossclj.info/)
 
 ## Twitter
