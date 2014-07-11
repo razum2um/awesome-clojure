@@ -42,7 +42,8 @@
 *Libraries for working with HTTP.*
 
   * [clj-http](https://github.com/dakrone/clj-http)
-  * [http-kit](https://github.com/eavgerinos/awesome-clojure)
+  * [http-kit](http://http-kit.org/)
+  * [ring](https://github.com/ring-clojure/ring)
 
 ## Database
 
@@ -75,6 +76,7 @@
 *Authentication, authorization and other security related libraries.*
 
   * [Buddy](https://github.com/niwibe/buddy)
+  * [Friend](https://github.com/cemerick/friend)
 
 ## RESTful API
 
@@ -119,6 +121,8 @@
 ## Code Analysis and Linter
 
   * [Slamhound](https://github.com/technomancy/slamhound)
+  * [eastwood](https://github.com/jonase/eastwood)
+  * [kibit](https://github.com/jonase/kibit)
 
 ## Science and Data Analysis
 
@@ -137,6 +141,9 @@
 
   * [clojuredocs](http://clojuredocs.org)
   * [crossclj](http://crossclj.info/)
+  * [clojure-doc](http://clojure-doc.org/)
+  * [CrossClj](http://crossclj.info/)
+  * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
 ## Twitter
 
