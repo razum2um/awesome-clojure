@@ -42,6 +42,7 @@
 *Libraries for working with HTTP.*
 
   * [clj-http](https://github.com/dakrone/clj-http)
+  * [http-kit](https://github.com/eavgerinos/awesome-clojure)
 
 ## Database
 
