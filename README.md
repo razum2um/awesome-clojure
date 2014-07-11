@@ -51,6 +51,14 @@
   * [Datomic](http://www.datomic.com/)
   * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
 
+## Redis
+
+  * [carmine](https://github.com/ptaoussanis/carmine)
+
+## JSON
+
+  * [cheshire](https://github.com/dakrone/cheshire)
+
 ## Database Cli
 
 ## ORM and SQL generation
@@ -106,6 +114,7 @@
 ## Testing
 
   * [Expectations](http://jayfields.com/expectations/)
+  * [Midje](https://github.com/marick/Midje)
 
 ## Code Analysis and Linter
 
@@ -114,6 +123,10 @@
 ## Science and Data Analysis
 
   * [Cascalog](http://cascalog.org/)
+
+## Natural Language Processing
+
+  * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
 
 ## Editor Plugins
 
