@@ -103,6 +103,8 @@
 
   * [core.async](https://github.com/clojure/core.async/)
   * [pulsar](https://github.com/puniverse/pulsar)
+  * [lamina](https://github.com/ztellman/lamina)
+  * [aleph](https://github.com/ztellman/aleph)
 
 ## Monads
 
