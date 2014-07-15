@@ -146,6 +146,7 @@
   * [clojure-doc](http://clojure-doc.org/)
   * [CrossClj](http://crossclj.info/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
+  * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 
 ## Twitter
 
