@@ -18,6 +18,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
 - [Resources](#resources)
+  - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
 
@@ -139,6 +140,11 @@
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
 
+## Guides
+
+  * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
+  * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
+
 ## Websites
 
   * [clojuredocs](http://clojuredocs.org)
@@ -146,7 +152,6 @@
   * [clojure-doc](http://clojure-doc.org/)
   * [Grimoire](http://grimoire.arrdem.com/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
-  * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 
 ## Twitter
 
