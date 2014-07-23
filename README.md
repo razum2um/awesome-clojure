@@ -17,6 +17,7 @@
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
+  - [Literate Programming](#literate-programming)
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
@@ -140,6 +141,9 @@
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
 
+## Literate Programming
+  * [marginalia](https://github.com/gdeer81/marginalia)
+
 ## Guides
 
   * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
@@ -156,4 +160,3 @@
 ## Twitter
 
   * [oss_clj](https://twitter.com/oss_clj)
-
