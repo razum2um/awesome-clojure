@@ -78,6 +78,7 @@
 
   * [Buddy](https://github.com/niwibe/buddy)
   * [Friend](https://github.com/cemerick/friend)
+  * [Cylon](https://github.com/juxt/cylon)
 
 ## RESTful API
 
@@ -156,4 +157,3 @@
 ## Twitter
 
   * [oss_clj](https://twitter.com/oss_clj)
-
