@@ -53,6 +53,7 @@
 
   * [Datomic](http://www.datomic.com/)
   * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
+  * [cravendb](https://github.com/robashton/cravendb)
 
 ## Redis
 
