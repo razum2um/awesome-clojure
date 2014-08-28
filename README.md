@@ -18,6 +18,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
   - [Literate Programming](#literate-programming)
+  - [Debugging tools](#debugging)
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
@@ -142,9 +143,18 @@
 
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
+  * [vim-redl](https://github.com/dgrnbrg/vim-redl)
 
 ## Literate Programming
   * [marginalia](https://github.com/gdeer81/marginalia)
+
+## Debugging
+  * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
+  * [ritz](https://github.com/pallet/ritz)
+  * [redl](https://github.com/dgrnbrg/redl)
+  * [limit-break](https://github.com/technomancy/limit-break)
+  * [spyscope](https://github.com/dgrnbrg/spyscope)
+  * [pretty](https://github.com/AvisoNovate/pretty)
 
 ## Guides
 
