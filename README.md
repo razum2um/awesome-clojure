@@ -161,6 +161,7 @@
 
   * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
+  * [Clojure for the Brave and True](http://www.braveclojure.com/)
 
 ## Websites
 
