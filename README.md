@@ -133,6 +133,7 @@
 
 ## Science and Data Analysis
 
+  * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
 
 ## Natural Language Processing
