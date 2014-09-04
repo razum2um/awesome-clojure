@@ -15,6 +15,7 @@
   - [Testing](#testing)
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
+  - [Computer Vision](#computer-vision)
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
   - [Literate Programming](#literate-programming)
@@ -135,6 +136,11 @@
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
+
+## Computer Vision
+
+  * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)
+  * [vision](http://nakkaya.com/vision.html)
 
 ## Natural Language Processing
 
