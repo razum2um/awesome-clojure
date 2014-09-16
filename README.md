@@ -189,6 +189,7 @@
   * [clojuredocs](http://clojuredocs.org)
   * [crossclj](http://crossclj.info/)
   * [clojure-doc](http://clojure-doc.org/)
+  * [Clojure Sphere](http://www.clojuresphere.com/)
   * [Grimoire](http://grimoire.arrdem.com/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
 
