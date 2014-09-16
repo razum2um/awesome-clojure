@@ -10,6 +10,7 @@
   - [Audio](#audio)
   - [HTTP](#http)
   - [Database](#database)
+  - [Structural Migrations](#structural-migrations)
   - [ORM and SQL generation](#orm-and-sql-generation)
   - [RESTful API](#restful-api)
   - [HTML Manipulation](#html-manipulation)
@@ -60,6 +61,15 @@
   * [Datomic](http://www.datomic.com/)
   * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
+
+## Structural Migrations
+
+*Keeps database and others in sync*
+
+  * [Lobos](https://github.com/budu/lobos)
+  * [Ragtime](https://github.com/weavejester/ragtime)
+  * [Migratus](https://github.com/pjstadig/migratus)
+  * [Drift](https://github.com/macourtney/drift)
 
 ## Redis
 
