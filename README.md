@@ -10,6 +10,7 @@
   - [RESTful API](#restful-api)
   - [HTML Manipulation](#html-manipulation)
   - [Data Validation](#data-validation)
+  - [Type System](#type-system)
   - [Async processing](#async-processing)
   - [WebSocket](#websocket)
   - [Testing](#testing)
@@ -94,12 +95,18 @@
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup)
 
-## Data validation
+## Data Validation
 
 *Libraries for validating data.*
 
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema](http://clojurevalidations.info/)
+  * [domaintypes](https://github.com/friemen/domaintypes)
+
+## Type System
+*Optional type system for Clojure*
+
+  * [core.typed](https://github.com/clojure/core.typed)
 
 ## Async processing
 
