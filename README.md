@@ -8,6 +8,7 @@
   - [Web Framework](#web-framework)
   - [Package Management](#package-management)
   - [Date and Time](#date-and-time)
+  - [GUI](#gui)
   - [Audio](#audio)
   - [HTTP](#http)
   - [Database](#database)
@@ -50,6 +51,10 @@
 *Libraries for working with dates and times.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
+
+## GUI
+
+  * [fx-clj](https://github.com/aaronc/fx-clj)
 
 ## Audio
 
