@@ -39,6 +39,7 @@
 
   * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
+  * [Coils](https://github.com/zubairq/coils)
 
 ## Package management
 
