@@ -171,6 +171,7 @@
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
+  * [Onyx](https://github.com/MichaelDrogalis/onyx)
 
 ## Computer Vision
 
