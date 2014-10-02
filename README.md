@@ -199,6 +199,7 @@
   * [spyscope](https://github.com/dgrnbrg/spyscope)
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
+  * [figwheel](https://github.com/bhauman/lein-figwheel)
 
 ## Guides
 
