@@ -215,6 +215,7 @@
   * [Clojure Sphere](http://www.clojuresphere.com/)
   * [Grimoire](http://grimoire.arrdem.com/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
+  * [InstaREPL Online](http://web.clojurerepl.com/)
 
 ## Twitter
 
