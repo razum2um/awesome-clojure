@@ -32,6 +32,7 @@
   - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
+  - [Misc](#misc)
 
 ## Web Framework
 
@@ -220,3 +221,7 @@
 ## Twitter
 
   * [oss_clj](https://twitter.com/oss_clj)
+
+## Misc
+
+  * [koans](https://github.com/functional-koans/clojure-koans)
