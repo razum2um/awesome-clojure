@@ -1,5 +1,7 @@
 # Awesome Clojure
 
+This awesome collection is also available on [Clojure.ZEEF.com](https://clojure.zeef.com/vlad.bokov).
+
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://www.lighttable.com/)
   - [Nightcode (IDE)](https://nightcode.info/)
