@@ -217,6 +217,7 @@
   * [Grimoire](http://grimoire.arrdem.com/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [InstaREPL Online](http://web.clojurerepl.com/)
+  * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
 
 ## Twitter
 
