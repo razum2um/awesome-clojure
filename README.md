@@ -198,6 +198,7 @@
   * [redl](https://github.com/dgrnbrg/redl)
   * [limit-break](https://github.com/technomancy/limit-break)
   * [spyscope](https://github.com/dgrnbrg/spyscope)
+  * [aprint](https://github.com/razum2um/aprint)
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
   * [figwheel](https://github.com/bhauman/lein-figwheel)
