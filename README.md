@@ -4,8 +4,10 @@
   - [LightTable (IDE)](http://www.lighttable.com/)
   - [Nightcode (IDE)](https://nightcode.info/)
   - [Riemann (Monitoring)](http://riemann.io/)
+  - [PuppetDB](https://github.com/puppetlabs/puppetdb)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
+  - [Dependency injection](#dependency-injection)
   - [Package Management](#package-management)
   - [Date and Time](#date-and-time)
   - [GUI](#gui)
@@ -42,6 +44,14 @@
   * [Luminus](http://www.luminusweb.net/)
   * [Coils](https://github.com/zubairq/coils)
 
+## Dependency injection
+
+*Managed lifecycle of stateful objects* 
+
+  * [Component](https://github.com/stuartsierra/component)
+  * [System](https://github.com/danielsz/system)
+  * [Duct](https://github.com/weavejester/duct)
+  
 ## Package management
 
 *Libraries for package and dependency management.*
@@ -77,6 +87,7 @@
   * [Datomic](http://www.datomic.com/)
   * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
+  * [Mongo](http://clojuremongodb.info/)
 
 ## Structural Migrations
 
@@ -208,6 +219,7 @@
   * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
+  * [Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)
 
 ## Websites
 
