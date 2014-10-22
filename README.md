@@ -24,6 +24,7 @@
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Computer Vision](#computer-vision)
+  - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
   - [Literate Programming](#literate-programming)
@@ -190,9 +191,16 @@
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
 
 ## Literate Programming
+
   * [marginalia](https://github.com/gdeer81/marginalia)
 
+## Miscellaneous
+
+ * [clj-tuple](https://github.com/ztellman/clj-tuple)
+ * [slingshot](https://github.com/scgilardi/slingshot)
+
 ## Debugging
+
   * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
   * [ritz](https://github.com/pallet/ritz)
   * [redl](https://github.com/dgrnbrg/redl)
