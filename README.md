@@ -43,6 +43,7 @@
 
   * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
+  * [Joodo](http://www.joodoweb.com/)
   * [Coils](https://github.com/zubairq/coils)
 
 ## Dependency injection
