@@ -14,6 +14,7 @@
   - [Audio](#audio)
   - [HTTP](#http)
   - [Database](#database)
+  - [Connection pools](#connection-pools)
   - [Structural Migrations](#structural-migrations)
   - [ORM and SQL generation](#orm-and-sql-generation)
   - [RESTful API](#restful-api)
@@ -90,6 +91,12 @@
   * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
+
+## Connection pools
+
+*Database connection pools*
+
+  * [hikari-cp](https://github.com/tomekw/hikari-cp)
 
 ## Structural Migrations
 
