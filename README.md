@@ -3,6 +3,7 @@
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://www.lighttable.com/)
   - [Nightcode (IDE)](https://nightcode.info/)
+  - [Cursive (IDE)](https://cursiveclojure.com/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
