@@ -209,6 +209,7 @@
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
+  * [Cursive (IntelliJ)](https://cursiveclojure.com/)
 
 ## Literate Programming
 
