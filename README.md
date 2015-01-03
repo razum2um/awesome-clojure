@@ -3,7 +3,6 @@
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://www.lighttable.com/)
   - [Nightcode (IDE)](https://nightcode.info/)
-  - [Cursive (IDE)](https://cursiveclojure.com/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
@@ -252,6 +251,8 @@
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
+  * [4Clojure](http://www.4clojure.com/)
+  * [Try Clojure](http://www.tryclj.com/)
 
 ## Twitter
 
