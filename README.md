@@ -4,6 +4,7 @@
   - [LightTable (IDE)](http://www.lighttable.com/)
   - [Nightcode (IDE)](https://nightcode.info/)
   - [Riemann (Monitoring)](http://riemann.io/)
+  - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
