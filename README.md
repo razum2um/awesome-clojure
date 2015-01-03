@@ -5,6 +5,7 @@
   - [Nightcode (IDE)](https://nightcode.info/)
   - [Cursive (IDE)](https://cursiveclojure.com/)
   - [Riemann (Monitoring)](http://riemann.io/)
+  - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
@@ -210,6 +211,7 @@
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
+  * [Cursive (IntelliJ)](https://cursiveclojure.com/)
 
 ## Literate Programming
 
