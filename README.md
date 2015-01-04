@@ -251,6 +251,8 @@
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
+  * [4clojure](http://www.4clojure.com/)
+  * [Try Clojure](http://www.tryclj.com/)
 
 ## Twitter
 
