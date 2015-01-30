@@ -149,6 +149,7 @@
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup)
+  * [clostache](https://github.com/fhd/clostache)
 
 ## Data Validation
 
