@@ -106,6 +106,7 @@
 
   * [Lobos](https://github.com/budu/lobos)
   * [Ragtime](https://github.com/weavejester/ragtime)
+  * [Joplin](https://github.com/juxt/joplin)
   * [Migratus](https://github.com/pjstadig/migratus)
   * [Drift](https://github.com/macourtney/drift)
 
