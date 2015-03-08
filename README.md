@@ -203,9 +203,11 @@
 
   * [clj-ml](https://github.com/antoniogarrote/clj-ml)
   * [clj-bigml](https://github.com/bigmlcom/clj-bigml)
+  * [Clatern](https://github.com/rinuboney/clatern)
   * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
   * [Enclog](https://github.com/jimpil/enclog)
   * [Infer](https://github.com/aria42/infer)
+  * [k9](https://github.com/gigasquid/k9)
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
   
