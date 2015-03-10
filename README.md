@@ -19,6 +19,7 @@
   - [Structural Migrations](#structural-migrations)
   - [ORM and SQL generation](#orm-and-sql-generation)
   - [RESTful API](#restful-api)
+  - [Emails](#emails)
   - [HTML Manipulation](#html-manipulation)
   - [Data Validation](#data-validation)
   - [Type System](#type-system)
@@ -144,6 +145,10 @@
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
   * [compojure-api](https://github.com/metosin/compojure-api)
+
+## Emails
+
+  * [postal](https://github.com/drewr/postal)
 
 ## HTML Manipulation
 
