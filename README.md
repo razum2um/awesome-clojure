@@ -230,7 +230,7 @@
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
-  * [vim-leineingen](https://github.com/tpope/vim-leiningen)
+  * [vim-leiningen](https://github.com/tpope/vim-leiningen)
   * [Cursive (IntelliJ)](https://cursiveclojure.com/)
 
 ## Literate Programming
