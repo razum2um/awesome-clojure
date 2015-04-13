@@ -231,6 +231,7 @@
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen](https://github.com/tpope/vim-leiningen)
+  * [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursiveclojure.com/)
 
 ## Literate Programming
