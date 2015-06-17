@@ -165,6 +165,7 @@
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema](http://clojurevalidations.info/)
   * [domaintypes](https://github.com/friemen/domaintypes)
+  * [Bouncer](https://github.com/leonardoborges/bouncer)
 
 ## Type System
 *Optional type system for Clojure*
