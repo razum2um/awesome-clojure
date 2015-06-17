@@ -163,7 +163,7 @@
 *Libraries for validating data.*
 
   * [Validateur](http://clojurevalidations.info/)
-  * [Prismatic's schema](http://clojurevalidations.info/)
+  * [Prismatic's schema](https://github.com/Prismatic/schema)
   * [domaintypes](https://github.com/friemen/domaintypes)
 
 ## Type System
