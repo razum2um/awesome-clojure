@@ -2,7 +2,7 @@
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://www.lighttable.com/)
-  - [Nightcode (IDE)](https://nightcode.info/)
+  - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
