@@ -74,6 +74,7 @@
 ## GUI
 
   * [fx-clj](https://github.com/aaronc/fx-clj)
+  * [seesaw](https://github.com/daveray/seesaw)
 
 ## Audio
 
