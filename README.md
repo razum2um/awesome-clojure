@@ -23,6 +23,7 @@
   - [HTML Manipulation](#html-manipulation)
   - [Data Validation](#data-validation)
   - [Type System](#type-system)
+  - [Pattern Matching](#pattern-matching)
   - [Async processing](#async-processing)
   - [WebSocket](#websocket)
   - [Testing](#testing)
@@ -172,6 +173,11 @@
 *Optional type system for Clojure*
 
   * [core.typed](https://github.com/clojure/core.typed)
+
+## Pattern Matching
+
+  * [core.match](https://github.com/clojure/core.match)
+  * [defun](https://github.com/killme2008/defun)
 
 ## Async processing
 
