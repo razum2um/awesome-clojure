@@ -34,7 +34,6 @@
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
   - [Editor Plugins](#editor-plugins)
-  - [Literate Programming](#literate-programming)
   - [Debugging tools](#debugging)
 - [Resources](#resources)
   - [Guides](#guides)
