@@ -50,6 +50,7 @@
   * [Joodo](http://www.joodoweb.com/)
   * [Coils](https://github.com/zubairq/coils)
   * [Duct](https://github.com/weavejester/duct)
+  * [Pedestal](https://github.com/pedestal/pedestal)
 
 ## Dependency injection
 
@@ -59,11 +60,12 @@
   * [System](https://github.com/danielsz/system)
   * [Duct](https://github.com/weavejester/duct)
   
-## Package management
+## Build Automation and Package management
 
-*Libraries for package and dependency management.*
+*Libraries for project build automation and package/dependency management.*
 
   * [Leiningen](https://github.com/technomancy/leiningen)
+  * [Boot](https://github.com/boot-clj/boot)
 
 ## Date and Time
 
