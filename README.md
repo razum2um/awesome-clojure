@@ -9,7 +9,7 @@
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
-  - [Package Management](#package-management)
+  - [Build Automation and Package management](#build-automation-and-package-management)
   - [Date and Time](#date-and-time)
   - [GUI](#gui)
   - [Audio](#audio)
