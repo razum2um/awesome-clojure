@@ -81,6 +81,7 @@
 ## Audio
 
   * [Overtone](http://overtone.github.io/)
+  * [Alda](https://github.com/alda-lang/alda)
 
 ## HTTP
 
