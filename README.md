@@ -51,6 +51,7 @@
   * [Coils](https://github.com/zubairq/coils)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
+  * [Om](https://github.com/omcljs/om)
 
 ## Dependency injection
 
