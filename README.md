@@ -1,7 +1,7 @@
 # Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
-  - [LightTable (IDE)](http://www.lighttable.com/)
+  - [LightTable (IDE)](http://lighttable.com/)
   - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
@@ -88,7 +88,7 @@
 *Libraries for working with HTTP.*
 
   * [clj-http](https://github.com/dakrone/clj-http)
-  * [http-kit](http://http-kit.org/)
+  * [http-kit](http://www.http-kit.org/)
   * [ring](https://github.com/ring-clojure/ring)
 
 ## Database
@@ -96,7 +96,7 @@
 *Databases and database client libraries*
 
   * [Datomic](http://www.datomic.com/)
-  * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
+  * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
 
@@ -113,7 +113,7 @@
   * [Lobos](https://github.com/budu/lobos)
   * [Ragtime](https://github.com/weavejester/ragtime)
   * [Joplin](https://github.com/juxt/joplin)
-  * [Migratus](https://github.com/pjstadig/migratus)
+  * [Migratus](https://github.com/yogthos/migratus)
   * [Drift](https://github.com/macourtney/drift)
 
 ## Redis
@@ -139,7 +139,7 @@
 
 *Authentication, authorization and other security related libraries.*
 
-  * [Buddy](https://github.com/niwibe/buddy)
+  * [Buddy](https://github.com/funcool/buddy)
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
 
@@ -190,7 +190,7 @@
 
 ## Monads
 
-  * [cats](https://github.com/niwibe/cats)
+  * [cats](https://github.com/funcool/cats)
   * [algo.monads](https://github.com/clojure/algo.monads)
 
 ## WebSocket
@@ -212,7 +212,7 @@
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
-  * [Onyx](https://github.com/MichaelDrogalis/onyx)
+  * [Onyx](https://github.com/onyx-platform/onyx)
 
 ## Machine Learning
 
@@ -240,7 +240,7 @@
   * [CIDER](https://github.com/clojure-emacs/cider)
   * [vim-fireplace](https://github.com/tpope/vim-fireplace)
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
-  * [vim-leiningen](https://github.com/tpope/vim-leiningen)
+  * [vim-leiningen](https://github.com/tpope/vim-salve)
   * [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursiveclojure.com/)
 
@@ -272,15 +272,15 @@
   * [clojure-cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
-  * [Clojure from the ground up](http://aphyr.com/tags/Clojure-from-the-ground-up)
+  * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
 
 ## Websites
 
   * [clojuredocs](http://clojuredocs.org)
-  * [crossclj](http://crossclj.info/)
+  * [crossclj](https://crossclj.info/)
   * [clojure-doc](http://clojure-doc.org/)
   * [Clojure Sphere](http://www.clojuresphere.com/)
-  * [Grimoire](http://grimoire.arrdem.com/)
+  * [Grimoire](http://conj.io/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
