@@ -54,12 +54,12 @@
 
 ## Dependency injection
 
-*Managed lifecycle of stateful objects* 
+*Managed lifecycle of stateful objects*
 
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
   * [Duct](https://github.com/weavejester/duct)
-  
+
 ## Build Automation and Package management
 
 *Libraries for project build automation and package/dependency management.*
@@ -225,7 +225,7 @@
   * [k9](https://github.com/gigasquid/k9)
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
-  
+
 ## Computer Vision
 
   * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)
@@ -279,7 +279,6 @@
   * [clojuredocs](http://clojuredocs.org)
   * [crossclj](https://crossclj.info/)
   * [clojure-doc](http://clojure-doc.org/)
-  * [Clojure Sphere](http://www.clojuresphere.com/)
   * [Grimoire](http://conj.io/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [InstaREPL Online](http://web.clojurerepl.com/)
