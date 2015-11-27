@@ -7,6 +7,7 @@
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
   - [Metabase](https://github.com/metabase/metabase)
+  - [Avi (vim rewrite)](https://github.com/maitria/avi)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
