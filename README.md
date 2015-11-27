@@ -6,6 +6,12 @@
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
+
+- [Languages written with Clojure](#languages-written-with-clojure)
+  - [jank](https://github.com/jeaye/jank)
+  - [lux](https://github.com/LuxLang/lux)
+  - [mal](https://github.com/kanaka/mal/tree/master/clojure)
+
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
