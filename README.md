@@ -176,6 +176,7 @@
   * [Prismatic's schema](https://github.com/Prismatic/schema)
   * [domaintypes](https://github.com/friemen/domaintypes)
   * [Bouncer](https://github.com/leonardoborges/bouncer)
+  * [clova](https://github.com/markwoodhall/clova)
 
 ## Type System
 *Optional type system for Clojure*
