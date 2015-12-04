@@ -64,6 +64,7 @@
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
   * [Catalysis](https://github.com/metasoarous/catalysis)
+  * [yada](https://github.com/juxt/yada)
 
 ## Dependency injection
 
@@ -71,7 +72,7 @@
 
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
-  * [Duct](https://github.com/weavejester/duct)
+  * [mount](https://github.com/tolitius/mount)
 
 ## Build Automation and Package management
 
@@ -163,6 +164,7 @@
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
   * [compojure-api](https://github.com/metosin/compojure-api)
+  * [yada](https://github.com/juxt/yada)
 
 ## Emails
 
