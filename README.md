@@ -134,7 +134,7 @@
 
 ## ORM and SQL generation
 
-*DSL for SQL generaion.*
+*DSL for SQL generation.*
 
   * [Korma](http://sqlkorma.com/)
   * [stch-library/sql](https://github.com/stch-library/sql)
