@@ -105,6 +105,7 @@
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
+  * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
 
 ## Connection pools
 
