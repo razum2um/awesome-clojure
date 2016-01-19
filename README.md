@@ -187,6 +187,7 @@
 ## Pattern Matching
 
   * [core.match](https://github.com/clojure/core.match)
+  * [Verbal-Exprejon](https://github.com/GuillaumeBadi/Verbal-Exprejon)
   * [defun](https://github.com/killme2008/defun)
 
 ## Async processing
