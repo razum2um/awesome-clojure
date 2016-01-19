@@ -54,7 +54,7 @@
   * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
   * [Joodo](http://www.joodoweb.com/)
-  * [Coils](https://github.com/zubairq/coils)
+  * [Coils](https://github.com/zubairq/AppShare)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
 
@@ -174,7 +174,7 @@
 *Libraries for validating data.*
 
   * [Validateur](http://clojurevalidations.info/)
-  * [Prismatic's schema](https://github.com/Prismatic/schema)
+  * [Prismatic's schema](https://github.com/plumatic/schema)
   * [domaintypes](https://github.com/friemen/domaintypes)
   * [Bouncer](https://github.com/leonardoborges/bouncer)
   * [clova](https://github.com/markwoodhall/clova)
@@ -251,7 +251,7 @@
   * [vim-redl](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen](https://github.com/tpope/vim-salve)
   * [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim)
-  * [Cursive (IntelliJ)](https://cursiveclojure.com/)
+  * [Cursive (IntelliJ)](https://cursive-ide.com/)
 
 ## Literate Programming
 
