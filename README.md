@@ -252,6 +252,7 @@
   * [vim-leiningen](https://github.com/tpope/vim-salve)
   * [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
+  * [Parinfer](http://shaunlebron.github.io/parinfer/)
 
 ## Literate Programming
 
