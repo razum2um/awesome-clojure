@@ -222,6 +222,7 @@
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx](https://github.com/onyx-platform/onyx)
+  * [Neanderthal](https://github.com/uncomplicate/neanderthal)
 
 ## Machine Learning
 
