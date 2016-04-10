@@ -23,7 +23,10 @@
   - [Database](#database)
   - [Connection pools](#connection-pools)
   - [Structural Migrations](#structural-migrations)
+  - [Redis](#redis)
+  - [JSON](#json)
   - [ORM and SQL generation](#orm-and-sql-generation)
+  - [Security](#security)
   - [RESTful API](#restful-api)
   - [Emails](#emails)
   - [HTML Manipulation](#html-manipulation)
@@ -31,16 +34,19 @@
   - [Type System](#type-system)
   - [Pattern Matching](#pattern-matching)
   - [Async processing](#async-processing)
+  - [Monads](#monads)
   - [WebSocket](#websocket)
   - [Testing](#testing)
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
   - [Computer Vision](#computer-vision)
+  - [Natural Language Processing](#natural-language-processing)
+  - [Editor Plugins](#editor-plugins)
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
-  - [Editor Plugins](#editor-plugins)
   - [Debugging tools](#debugging)
+  - [CI](#ci)
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
@@ -277,6 +283,10 @@
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
   * [figwheel](https://github.com/bhauman/lein-figwheel)
+
+## CI
+
+  * [lambdacd](https://github.com/flosell/lambdacd)
 
 ## Guides
 
