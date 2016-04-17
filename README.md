@@ -51,7 +51,7 @@
   - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
-  - [Misc](#misc)
+  - [Exercises](#exercises)
 
 ## Web Framework
 
@@ -307,13 +307,16 @@
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
-  * [4clojure](http://www.4clojure.com/)
   * [Try Clojure](http://www.tryclj.com/)
 
 ## Twitter
 
   * [oss_clj](https://twitter.com/oss_clj)
 
-## Misc
+## Exercises
 
-  * [koans](https://github.com/functional-koans/clojure-koans)
+  * [Clojure Koans](http://clojurekoans.com)
+  * [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
+  * [Clojure Katas](http://clojurekatas.org)
+  * [4clojure](http://www.4clojure.com/)
+  * [exercism.io](http://exercism.io/languages/clojure)
