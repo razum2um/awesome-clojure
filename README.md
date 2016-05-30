@@ -12,6 +12,7 @@
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
+  - [scheje](https://github.com/turbopape/scheje)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
