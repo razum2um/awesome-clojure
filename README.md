@@ -66,6 +66,7 @@
   * [Pedestal](https://github.com/pedestal/pedestal)
   * [Catalysis](https://github.com/metasoarous/catalysis)
   * [yada](https://github.com/juxt/yada)
+  * [Hoplon](http://hoplon.io/)
 
 ## Dependency injection
 
