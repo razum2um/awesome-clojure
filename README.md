@@ -106,6 +106,7 @@
   * [clj-http](https://github.com/dakrone/clj-http)
   * [http-kit](http://www.http-kit.org/)
   * [ring](https://github.com/ring-clojure/ring)
+  * [kvlt](https://github.com/nervous-systems/kvlt)
 
 ## Database
 
