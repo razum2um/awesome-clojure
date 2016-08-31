@@ -203,6 +203,7 @@
   * [Verbal-Exprejon](https://github.com/GuillaumeBadi/Verbal-Exprejon)
   * [defun](https://github.com/killme2008/defun)
   * [cats.match](https://github.com/zalando/cats.match)
+  * [Akar](https://github.com/missingfaktor/akar)
 
 ## Async processing
 
