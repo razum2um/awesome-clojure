@@ -54,7 +54,7 @@
   - [Websites](#websites)
   - [Twitter](#twitter)
   - [Exercises](#exercises)
-  - [Products](#products)
+  - [Awesome products in Clojure](#awesome-products-in-clojure)
 
 ## Web Framework
 
@@ -338,6 +338,6 @@
   
   * [milestones](https://github.com/turbopape/milestones)
  
-## Products
+## Awesome products in Clojure
 
-  * [Metabase](http://www.metabase.com/)
+  * [Metabase](https://github.com/metabase/metabase)
