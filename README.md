@@ -54,7 +54,6 @@
   - [Websites](#websites)
   - [Twitter](#twitter)
   - [Exercises](#exercises)
-  - [Awesome products in Clojure](#awesome-products-in-clojure)
 
 ## Web Framework
 
@@ -337,7 +336,3 @@
 ## Project Management
   
   * [milestones](https://github.com/turbopape/milestones)
- 
-## Awesome products in Clojure
-
-  * [Metabase](https://github.com/metabase/metabase)
