@@ -48,6 +48,7 @@
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
   - [CI](#ci)
+  - [Project Management](#project-management)
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
@@ -273,6 +274,7 @@
 ## Literate Programming
 
   * [marginalia](https://github.com/gdeer81/marginalia)
+  * [klipse](https://github.com/viebel/klipse)
 
 ## Miscellaneous
 
@@ -326,3 +328,7 @@
   * [Clojure Katas](http://clojurekatas.org)
   * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
+
+## Project Management
+  
+  * [milestones](https://github.com/turbopape/milestones) 
