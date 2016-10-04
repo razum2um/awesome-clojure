@@ -118,6 +118,8 @@
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
   * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
+  * [ElasticSearch](http://clojureelasticsearch.info/)
+  * [Neo4j](http://clojureneo4j.info/)
 
 ## Connection pools
 
@@ -308,6 +310,8 @@
 
 ## Websites
 
+  * [Clojure](http://clojure.org/)
+  * [Clojure Slack](http://clojurians.net/)
   * [clojuredocs](http://clojuredocs.org)
   * [crossclj](https://crossclj.info/)
   * [clojure-doc](http://clojure-doc.org/)
@@ -331,4 +335,4 @@
 
 ## Project Management
   
-  * [milestones](https://github.com/turbopape/milestones) 
+  * [milestones](https://github.com/turbopape/milestones)
