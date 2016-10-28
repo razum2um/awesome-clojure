@@ -43,6 +43,7 @@
   - [Machine Learning](#machine-learning)
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
+  - [Parsing](#parsing)
   - [Editor Plugins](#editor-plugins)
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
@@ -262,6 +263,10 @@
 ## Natural Language Processing
 
   * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
+
+## Parsing
+
+  * [Instaparse](https://github.com/Engelberg/instaparse)
 
 ## Editor Plugins
 
