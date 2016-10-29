@@ -252,6 +252,7 @@
   * [Enclog](https://github.com/jimpil/enclog)
   * [Infer](https://github.com/aria42/infer)
   * [k9](https://github.com/gigasquid/k9)
+  * [lambda-ml](https://github.com/cloudkj/lambda-ml)
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
 
