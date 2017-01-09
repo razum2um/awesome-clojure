@@ -268,6 +268,7 @@
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
+  * [duckling](https://github.com/wit-ai/duckling)
 
 ## Editor Plugins
 
