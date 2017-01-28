@@ -156,7 +156,7 @@
   * [stch-library/sql](https://github.com/stch-library/sql)
   * [sqlingvo](https://github.com/r0man/sqlingvo)
   * [honeysql](https://github.com/jkk/honeysql)
-  * [Toucan](https://github.com/camsaul/toucan)
+  * [Toucan](https://github.com/metabase/toucan)
 
 ## Security
 
