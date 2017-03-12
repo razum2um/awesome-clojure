@@ -293,7 +293,7 @@
 
 ## Debugging
 
-  * [debugger](https://github.com/razum2um/debugger)
+  * [debugger](https://github.com/razum2um/clj-debugger)
   * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
   * [ritz](https://github.com/pallet/ritz)
   * [redl](https://github.com/dgrnbrg/redl)
