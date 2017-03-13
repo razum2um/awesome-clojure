@@ -266,6 +266,7 @@
 ## Natural Language Processing
 
   * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
+  * [postagga](https://github.com/turbopape/postagga)
 
 ## Parsing
 
