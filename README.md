@@ -38,7 +38,7 @@
   - [Monads](#monads)
   - [WebSocket](#websocket)
   - [Testing](#testing)
-  - [Webdriver automation](#Webdriver-automation)
+  - [Webdriver automation](#webdriver-automation)
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
