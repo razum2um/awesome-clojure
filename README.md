@@ -38,6 +38,7 @@
   - [Monads](#monads)
   - [WebSocket](#websocket)
   - [Testing](#testing)
+  - [Webdriver automation](#webdriver-automation)
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
@@ -231,6 +232,10 @@
 
   * [Expectations](http://jayfields.com/expectations/)
   * [Midje](https://github.com/marick/Midje)
+
+## Webdriver automation
+
+  * [Etaoin](https://github.com/igrishaev/etaoin)
 
 ## Code Analysis and Linter
 
