@@ -277,7 +277,11 @@
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
-
+  
+## Exceptions and Error Handling
+  * [Perseverance](https://github.com/grammarly/perseverance)
+  * [Dire](https://github.com/MichaelDrogalis/dire)
+  
 ## Editor Plugins
 
   * [CIDER](https://github.com/clojure-emacs/cider)
