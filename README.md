@@ -67,7 +67,7 @@
   * [Coils](https://github.com/zubairq/AppShare)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
-  * [Catalysis](https://github.com/metasoarous/catalysis)
+  * [Datsys](https://github.com/metasoarous/datsys)
   * [yada](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
 
