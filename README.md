@@ -48,7 +48,7 @@
   - [Parsing](#parsing)
   - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
-  - [Documentation](#Documentation)
+  - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
