@@ -14,7 +14,6 @@
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
   - [scheje](https://github.com/turbopape/scheje)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
-  - [Code and Project Documentation](http://docs.caudate.me/lucidity/lucid-publish.html)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
   - [Build Automation and Package management](#build-automation-and-package-management)
@@ -49,22 +48,19 @@
   - [Parsing](#parsing)
   - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
+  - [Documentation](#Documentation)
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
   - [CI](#ci)
   - [Project Management](#project-management)
+
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
   - [Exercises](#exercises)
 
-## Code and Project Documentation
-
-*Utilities and libraries for (non-LP) code and project documentation*
-
- * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
 
 ## Web Framework
 
@@ -319,6 +315,12 @@ anylysis and visualization.*
   * [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer](http://shaunlebron.github.io/parinfer/)
+
+## Documentation
+
+*Utilities and libraries for (non-LP) code and project documentation*
+
+ * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
 
 ## Literate Programming
 
