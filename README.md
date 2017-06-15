@@ -17,6 +17,7 @@
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
   - [Build Automation and Package management](#build-automation-and-package-management)
+  - [Version Control Management](#version-control-management)
   - [Date and Time](#date-and-time)
   - [GUI](#gui)
   - [Audio](#audio)
@@ -45,17 +46,21 @@
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
   - [Parsing](#parsing)
+  - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
+  - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
   - [CI](#ci)
   - [Project Management](#project-management)
+
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
   - [Exercises](#exercises)
+
 
 ## Web Framework
 
@@ -85,6 +90,14 @@
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
+  * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
+  * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
+
+## Version Control Management
+
+*Code utilities for interacting with VCS software*
+
+  * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
@@ -233,6 +246,7 @@
 
   * [Expectations](http://jayfields.com/expectations/)
   * [Midje](https://github.com/marick/Midje)
+  * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
 
 ## Webdriver automation
 
@@ -243,13 +257,20 @@
   * [Slamhound](https://github.com/technomancy/slamhound)
   * [eastwood](https://github.com/jonase/eastwood)
   * [kibit](https://github.com/jonase/kibit)
+  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
 
 ## Science and Data Analysis
+
+*Libraries, extended REPLs, and other tools for scientific and statistical data
+anylysis and visualization.*
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx](https://github.com/onyx-platform/onyx)
   * [Neanderthal](https://github.com/uncomplicate/neanderthal)
+  * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
+  * [Streaming Histograms](https://github.com/bigmlcom/histogram)
+  * [Gorilla REPL](http://gorilla-repl.org/)  
 
 ## Machine Learning
 
@@ -278,6 +299,13 @@
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
 
+## Reflection
+*Libraries for improved code reflection and object introspection
+
+  * [hara.reflect](docs.caudate.me/hara/hara-reflect.html)
+  * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
+  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
+
 ## Editor Plugins
 
   * [CIDER](https://github.com/clojure-emacs/cider)
@@ -288,6 +316,12 @@
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer](http://shaunlebron.github.io/parinfer/)
 
+## Documentation
+
+*Utilities and libraries for (non-LP) code and project documentation*
+
+ * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
+
 ## Literate Programming
 
   * [marginalia](https://github.com/gdeer81/marginalia)
@@ -297,6 +331,7 @@
 
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
+ * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
 
 ## Debugging
 
