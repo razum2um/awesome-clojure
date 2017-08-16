@@ -302,7 +302,11 @@ anylysis and visualization.*
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
-
+  
+## Exceptions and Error Handling
+  * [Perseverance](https://github.com/grammarly/perseverance)
+  * [Dire](https://github.com/MichaelDrogalis/dire)
+  
 ## Reflection
 *Libraries for improved code reflection and object introspection
 
