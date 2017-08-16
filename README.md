@@ -50,6 +50,7 @@
   - [Editor Plugins](#editor-plugins)
   - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
+  - [Archives and Compression](#archives-and-compression)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
   - [CI](#ci)
@@ -329,6 +330,10 @@ anylysis and visualization.*
 
   * [marginalia](https://github.com/gdeer81/marginalia)
   * [klipse](https://github.com/viebel/klipse)
+
+## Archives and Compression
+
+  * [swindon (java.util.zip wrapper)](https://github.com/AeroNotix/swindon)
 
 ## Miscellaneous
 
