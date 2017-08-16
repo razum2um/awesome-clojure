@@ -17,6 +17,7 @@
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
   - [Build Automation and Package management](#build-automation-and-package-management)
+  - [Version Control Management](#version-control-management)
   - [Date and Time](#date-and-time)
   - [GUI](#gui)
   - [Audio](#audio)
@@ -38,23 +39,29 @@
   - [Monads](#monads)
   - [WebSocket](#websocket)
   - [Testing](#testing)
+  - [Webdriver automation](#webdriver-automation)
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
   - [Parsing](#parsing)
+  - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
+  - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
+  - [Archives and Compression](#archives-and-compression)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
   - [CI](#ci)
   - [Project Management](#project-management)
+
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
   - [Exercises](#exercises)
+
 
 ## Web Framework
 
@@ -66,7 +73,7 @@
   * [Coils](https://github.com/zubairq/AppShare)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
-  * [Catalysis](https://github.com/metasoarous/catalysis)
+  * [Datsys](https://github.com/metasoarous/datsys)
   * [yada](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
 
@@ -84,6 +91,14 @@
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
+  * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
+  * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
+
+## Version Control Management
+
+*Code utilities for interacting with VCS software*
+
+  * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
@@ -156,6 +171,7 @@
   * [stch-library/sql](https://github.com/stch-library/sql)
   * [sqlingvo](https://github.com/r0man/sqlingvo)
   * [honeysql](https://github.com/jkk/honeysql)
+  * [Toucan](https://github.com/metabase/toucan)
 
 ## Security
 
@@ -173,6 +189,7 @@
   * [compojure-api](https://github.com/metosin/compojure-api)
   * [Friboo](https://github.com/zalando/friboo)
   * [yada](https://github.com/juxt/yada)
+  * [router](https://github.com/darkleaf/router)
 
 ## Emails
 
@@ -195,6 +212,7 @@
   * [domaintypes](https://github.com/friemen/domaintypes)
   * [Bouncer](https://github.com/leonardoborges/bouncer)
   * [clova](https://github.com/markwoodhall/clova)
+  * [Orchestra](https://github.com/jeaye/orchestra)
 
 ## Type System
 *Optional type system for Clojure*
@@ -229,23 +247,38 @@
 
   * [Expectations](http://jayfields.com/expectations/)
   * [Midje](https://github.com/marick/Midje)
+  * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
+
+## Webdriver automation
+
+  * [Etaoin](https://github.com/igrishaev/etaoin)
 
 ## Code Analysis and Linter
 
   * [Slamhound](https://github.com/technomancy/slamhound)
   * [eastwood](https://github.com/jonase/eastwood)
   * [kibit](https://github.com/jonase/kibit)
+  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
 
 ## Science and Data Analysis
+
+*Libraries, extended REPLs, and other tools for scientific and statistical data
+anylysis and visualization.*
 
   * [Incanter](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx](https://github.com/onyx-platform/onyx)
+  * [sparklling](https://github.com/gorillalabs/sparkling)
+  * [flambo](https://github.com/yieldbot/flambo)
   * [Neanderthal](https://github.com/uncomplicate/neanderthal)
+  * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
+  * [Streaming Histograms](https://github.com/bigmlcom/histogram)
+  * [Gorilla REPL](http://gorilla-repl.org/)  
 
 ## Machine Learning
 
   * [clj-ml](https://github.com/antoniogarrote/clj-ml)
+  * [cortex](https://github.com/thinktopic/cortex)
   * [clj-bigml](https://github.com/bigmlcom/clj-bigml)
   * [Clatern](https://github.com/rinuboney/clatern)
   * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
@@ -264,11 +297,23 @@
 ## Natural Language Processing
 
   * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
+  * [postagga](https://github.com/turbopape/postagga)
 
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [duckling](https://github.com/wit-ai/duckling)
+  
+## Exceptions and Error Handling
+  * [Perseverance](https://github.com/grammarly/perseverance)
+  * [Dire](https://github.com/MichaelDrogalis/dire)
+  
+## Reflection
+*Libraries for improved code reflection and object introspection
+
+  * [hara.reflect](docs.caudate.me/hara/hara-reflect.html)
+  * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
+  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
 
 ## Editor Plugins
 
@@ -280,19 +325,30 @@
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer](http://shaunlebron.github.io/parinfer/)
 
+## Documentation
+
+*Utilities and libraries for (non-LP) code and project documentation*
+
+ * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
+
 ## Literate Programming
 
   * [marginalia](https://github.com/gdeer81/marginalia)
   * [klipse](https://github.com/viebel/klipse)
 
+## Archives and Compression
+
+  * [swindon (java.util.zip wrapper)](https://github.com/AeroNotix/swindon)
+
 ## Miscellaneous
 
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
+ * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
 
 ## Debugging
 
-  * [debugger](https://github.com/razum2um/debugger)
+  * [debugger](https://github.com/razum2um/clj-debugger)
   * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
   * [ritz](https://github.com/pallet/ritz)
   * [redl](https://github.com/dgrnbrg/redl)
