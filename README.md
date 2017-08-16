@@ -361,6 +361,7 @@ anylysis and visualization.*
 ## CI
 
   * [lambdacd](https://github.com/flosell/lambdacd)
+  * [CircleCI](https://circleci.com)
 
 ## Guides
 
