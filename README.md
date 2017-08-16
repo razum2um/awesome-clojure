@@ -302,6 +302,7 @@ anylysis and visualization.*
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
+  * [duckling](https://github.com/wit-ai/duckling)
   
 ## Exceptions and Error Handling
   * [Perseverance](https://github.com/grammarly/perseverance)
