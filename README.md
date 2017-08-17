@@ -326,7 +326,7 @@ anylysis and visualization.*
   * [vim-leiningen (Vim)](https://github.com/tpope/vim-salve)
   * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
-  * [Parinfer (Multiple editors)](http://shaunlebron.github.io/parinfer/)
+  * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 
 ## Documentation
 
