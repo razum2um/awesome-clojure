@@ -259,6 +259,10 @@
   * [eastwood](https://github.com/jonase/eastwood)
   * [kibit](https://github.com/jonase/kibit)
   * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
+  * [yagni](https://github.com/venantius/yagni)
+  * [lein-bikeshed](https://github.com/dakrone/lein-bikeshed)
+  * [spectrum](https://github.com/arohner/spectrum)
+  * [cloverage](https://github.com/cloverage/cloverage)
 
 ## Science and Data Analysis
 
