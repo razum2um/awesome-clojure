@@ -369,7 +369,7 @@ anylysis and visualization.*
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
   * [figwheel](https://github.com/bhauman/lein-figwheel)
-  * [utra](https://github.com/venantius/ultra)
+  * [ultra](https://github.com/venantius/ultra)
 
 ## CI
 
