@@ -79,6 +79,7 @@
   * [yada](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
   * [Fulcro](https://github.com/fulcrologic/fulcro)
+  * [Coast](http://coastonclojure.com/)
 
 ## Dependency injection
 
