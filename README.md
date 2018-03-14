@@ -245,7 +245,6 @@
 
 ## WebSocket
 
-  * [Chord](https://github.com/jarohen/chord)
   * [Sente](https://github.com/ptaoussanis/sente)
 
 ## Testing
