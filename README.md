@@ -403,7 +403,6 @@ anylysis and visualization.*
   * [Clojure Katas](http://clojurekatas.org)
   * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
-  * [Clojurecademy](https://clojurecademy.com)
 
 ## Project Management
   
