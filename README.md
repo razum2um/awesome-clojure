@@ -317,16 +317,13 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
-  * [CIDER (Emacs)](https://github.com/clojure-emacs/cider)
-  * [smartparens (Emacs)](https://github.com/Fuco1/smartparens)
-  * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters)
-  * [aggressive-indent (Emacs)](https://github.com/Malabarba/aggressive-indent-mode)
-  * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace)
-  * [vim-redl (Vim)](https://github.com/dgrnbrg/vim-redl)
-  * [vim-leiningen (Vim)](https://github.com/tpope/vim-salve)
-  * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
+  * [CIDER](https://github.com/clojure-emacs/cider)
+  * [vim-fireplace](https://github.com/tpope/vim-fireplace)
+  * [vim-redl](https://github.com/dgrnbrg/vim-redl)
+  * [vim-leiningen](https://github.com/tpope/vim-salve)
+  * [rainbow_parentheses.vim](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
-  * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
+  * [Parinfer](http://shaunlebron.github.io/parinfer/)
 
 ## Documentation
 
