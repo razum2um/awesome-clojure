@@ -202,7 +202,6 @@
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup](https://github.com/weavejester/hiccup)
   * [clostache](https://github.com/fhd/clostache)
-  * [selmer](https://github.com/yogthos/Selmer)
 
 ## Data Validation
 
