@@ -77,7 +77,6 @@
   * [Datsys](https://github.com/metasoarous/datsys)
   * [yada](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
-  * [Fulcro](https://github.com/fulcrologic/fulcro)
 
 ## Dependency injection
 
