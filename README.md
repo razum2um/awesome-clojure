@@ -9,7 +9,6 @@
   - [Metabase](https://github.com/metabase/metabase)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
-  - [Clojupyter](https://github.com/clojupyter/clojupyter)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
