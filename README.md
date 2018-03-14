@@ -368,7 +368,6 @@ anylysis and visualization.*
   * [limit-break](https://github.com/technomancy/limit-break)
   * [spyscope](https://github.com/dgrnbrg/spyscope)
   * [aprint](https://github.com/razum2um/aprint)
-  * [packed-printer](https://github.com/cgrand/packed-printer)
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
   * [figwheel](https://github.com/bhauman/lein-figwheel)
