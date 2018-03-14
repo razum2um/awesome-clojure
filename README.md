@@ -379,7 +379,6 @@ anylysis and visualization.*
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
-  * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
 
 ## Websites
 
