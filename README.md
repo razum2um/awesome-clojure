@@ -363,6 +363,7 @@ anylysis and visualization.*
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
  * [virgil](https://github.com/ztellman/virgil)
+ * [javastar](https://github.com/tailrecursion/javastar)
 
 ## Debugging
 
