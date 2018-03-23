@@ -362,6 +362,7 @@ anylysis and visualization.*
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
+ * [virgil](https://github.com/ztellman/virgil)
 
 ## Debugging
 
