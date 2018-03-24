@@ -90,6 +90,7 @@
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
   * [mount](https://github.com/tolitius/mount)
+  * [Integrant](https://github.com/weavejester/integrant)
 
 ## Build Automation and Package management
 
