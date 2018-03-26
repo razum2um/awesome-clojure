@@ -164,6 +164,7 @@
 ## Redis
 
   * [carmine](https://github.com/ptaoussanis/carmine)
+  * [celtuce](https://github.com/lerouxrgd/celtuce)
 
 ## JSON
 
