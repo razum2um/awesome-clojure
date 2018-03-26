@@ -421,6 +421,7 @@ anylysis and visualization.*
   * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
   * [Clojurecademy](https://clojurecademy.com)
+  * [Codewars](https://www.codewars.com/kata/search/clojure)
 
 ## Project Management
   
