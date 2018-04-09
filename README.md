@@ -142,6 +142,7 @@
   * [Mongo](http://clojuremongodb.info/)
   * [Monglorious](https://baumandm.github.io/monglorious/)
   * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
+  * [Revise (RethinkDB)](https://github.com/bitemyapp/revise)
   * [ElasticSearch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
 
