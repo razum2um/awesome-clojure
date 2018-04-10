@@ -176,10 +176,12 @@
 ## ORM and SQL generation
 
 *DSL for SQL generation.*
-
+  * [Walkable](https://github.com/walkable-server/walkable)
   * [Korma](http://sqlkorma.com/)
+  * [Specql](https://github.com/tatut/specql/)
   * [stch-library/sql](https://github.com/stch-library/sql)
   * [sqlingvo](https://github.com/r0man/sqlingvo)
+  * [sqlium](https://github.com/TheLadders/sqlium/)
   * [honeysql](https://github.com/jkk/honeysql)
   * [Toucan](https://github.com/metabase/toucan)
 
