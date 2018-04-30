@@ -74,7 +74,7 @@
   * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
   * [Joodo](https://github.com/slagyr/joodoweb)
-  * [Coils](https://github.com/zubairq/AppShare)
+  * [Coils](https://github.com/l4u/coils)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
   * [Datsys](https://github.com/metasoarous/datsys)
