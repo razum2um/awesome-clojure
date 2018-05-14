@@ -9,6 +9,9 @@
   - [Metabase](https://github.com/metabase/metabase)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
+  - [Clojupyter](https://github.com/clojupyter/clojupyter)
+  - [Meo](https://github.com/matthiasn/meo)
+  - [Jepsen](https://github.com/jepsen-io/jepsen)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
@@ -71,12 +74,14 @@
   * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
   * [Joodo](https://github.com/slagyr/joodoweb)
-  * [Coils](https://github.com/zubairq/AppShare)
+  * [Coils](https://github.com/l4u/coils)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
   * [Datsys](https://github.com/metasoarous/datsys)
   * [yada](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
+  * [Fulcro](https://github.com/fulcrologic/fulcro)
+  * [Coast](http://coastonclojure.com/)
 
 ## Dependency injection
 
@@ -85,6 +90,7 @@
   * [Component](https://github.com/stuartsierra/component)
   * [System](https://github.com/danielsz/system)
   * [mount](https://github.com/tolitius/mount)
+  * [Integrant](https://github.com/weavejester/integrant)
 
 ## Build Automation and Package management
 
@@ -136,6 +142,7 @@
   * [Mongo](http://clojuremongodb.info/)
   * [Monglorious](https://baumandm.github.io/monglorious/)
   * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
+  * [Revise (RethinkDB)](https://github.com/bitemyapp/revise)
   * [ElasticSearch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
 
@@ -158,6 +165,7 @@
 ## Redis
 
   * [carmine](https://github.com/ptaoussanis/carmine)
+  * [celtuce](https://github.com/lerouxrgd/celtuce)
 
 ## JSON
 
@@ -168,10 +176,12 @@
 ## ORM and SQL generation
 
 *DSL for SQL generation.*
-
+  * [Walkable](https://github.com/walkable-server/walkable)
   * [Korma](http://sqlkorma.com/)
+  * [Specql](https://github.com/tatut/specql/)
   * [stch-library/sql](https://github.com/stch-library/sql)
   * [sqlingvo](https://github.com/r0man/sqlingvo)
+  * [sqlium](https://github.com/TheLadders/sqlium/)
   * [honeysql](https://github.com/jkk/honeysql)
   * [Toucan](https://github.com/metabase/toucan)
 
@@ -244,11 +254,12 @@
 
 ## WebSocket
 
+  * [Chord](https://github.com/jarohen/chord)
   * [Sente](https://github.com/ptaoussanis/sente)
 
 ## Testing
 
-  * [Expectations](http://jayfields.com/expectations/)
+  * [Expectations](https://github.com/clojure-expectations/expectations)
   * [Midje](https://github.com/marick/Midje)
   * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
 
@@ -309,6 +320,7 @@ anylysis and visualization.*
 ## Parsing
 
   * [Instaparse](https://github.com/Engelberg/instaparse)
+  * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
   
 ## Exceptions and Error Handling
@@ -355,6 +367,8 @@ anylysis and visualization.*
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
+ * [virgil](https://github.com/ztellman/virgil)
+ * [javastar](https://github.com/tailrecursion/javastar)
 
 ## Debugging
 
@@ -365,9 +379,11 @@ anylysis and visualization.*
   * [limit-break](https://github.com/technomancy/limit-break)
   * [spyscope](https://github.com/dgrnbrg/spyscope)
   * [aprint](https://github.com/razum2um/aprint)
+  * [packed-printer](https://github.com/cgrand/packed-printer)
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
   * [figwheel](https://github.com/bhauman/lein-figwheel)
+  * [ultra](https://github.com/venantius/ultra)
 
 ## CI
 
@@ -381,6 +397,7 @@ anylysis and visualization.*
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+  * [Error message catalog](https://github.com/yogthos/clojure-error-message-catalog)
   * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
 
 ## Websites
@@ -408,6 +425,7 @@ anylysis and visualization.*
   * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
   * [Clojurecademy](https://clojurecademy.com)
+  * [Codewars](https://www.codewars.com/kata/search/clojure)
 
 ## Project Management
   
