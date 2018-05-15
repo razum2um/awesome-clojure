@@ -370,6 +370,7 @@ anylysis and visualization.*
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
  * [virgil](https://github.com/ztellman/virgil)
  * [javastar](https://github.com/tailrecursion/javastar)
+ * [riddley](https://github.com/ztellman/riddley)
 
 ## Debugging
 
