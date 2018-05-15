@@ -262,6 +262,7 @@
   * [Expectations](https://github.com/clojure-expectations/expectations)
   * [Midje](https://github.com/marick/Midje)
   * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
+  * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
 
 ## Webdriver automation
 
