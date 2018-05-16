@@ -297,7 +297,7 @@ anylysis and visualization.*
 ## Machine Learning
 
   * [clj-ml](https://github.com/antoniogarrote/clj-ml)
-  * [cortex](https://github.com/thinktopic/cortex)
+  * [cortex](https://github.com/originrose/cortex)
   * [clj-bigml](https://github.com/bigmlcom/clj-bigml)
   * [Clatern](https://github.com/rinuboney/clatern)
   * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
