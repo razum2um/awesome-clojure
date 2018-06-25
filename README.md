@@ -374,6 +374,7 @@ anylysis and visualization.*
 
 ## Debugging
 
+  * [tools.trace](https://github.com/clojure/tools.trace)
   * [debugger](https://github.com/razum2um/clj-debugger)
   * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
   * [ritz](https://github.com/pallet/ritz)
