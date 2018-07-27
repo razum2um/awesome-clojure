@@ -138,6 +138,8 @@
 *Databases and database client libraries*
 
   * [Datomic](http://www.datomic.com/)
+  * [Datahike](https://github.com/replikativ/datahike)
+  * [Datascript](https://github.com/tonsky/datascript)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
