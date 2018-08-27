@@ -316,6 +316,7 @@ anylysis and visualization.*
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
   * [clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)
+  * [dl4clj (deeplearning4j to clojure)](https://github.com/yetanalytics/dl4clj)
 
 ## Computer Vision
 
