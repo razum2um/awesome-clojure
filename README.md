@@ -315,6 +315,7 @@ anylysis and visualization.*
   * [lambda-ml](https://github.com/cloudkj/lambda-ml)
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
+  * [clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)
 
 ## Computer Vision
 
