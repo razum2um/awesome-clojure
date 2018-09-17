@@ -138,6 +138,7 @@
   * [http-kit](http://www.http-kit.org/)
   * [ring](https://github.com/ring-clojure/ring)
   * [kvlt](https://github.com/nervous-systems/kvlt)
+  * [aleph](https://github.com/ztellman/aleph)
 
 ## Database
 
@@ -253,8 +254,7 @@
 
   * [core.async](https://github.com/clojure/core.async/)
   * [pulsar](https://github.com/puniverse/pulsar)
-  * [lamina](https://github.com/ztellman/lamina)
-  * [aleph](https://github.com/ztellman/aleph)
+  * [manifold](https://github.com/ztellman/manifold)
 
 ## Monads
 
@@ -265,6 +265,7 @@
 
   * [Chord](https://github.com/jarohen/chord)
   * [Sente](https://github.com/ptaoussanis/sente)
+  * [aleph](https://github.com/ztellman/aleph)
 
 ## Testing
 
