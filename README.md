@@ -146,13 +146,15 @@
   * [Datomic](http://www.datomic.com/)
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
+  * [Cassandra](https://github.com/mpenet/alia)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
   * [Monglorious](https://baumandm.github.io/monglorious/)
   * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
   * [Revise (RethinkDB)](https://github.com/bitemyapp/revise)
-  * [ElasticSearch](http://clojureelasticsearch.info/)
+  * [Spandex (ElasticSearch)](https://github.com/mpenet/spandex)
+  * [Elastisch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
 
 ## Connection pools
@@ -336,6 +338,7 @@ anylysis and visualization.*
   * [duckling](https://github.com/wit-ai/duckling)
   
 ## Exceptions and Error Handling
+  * [Ex](https://github.com/mpenet/ex)
   * [Perseverance](https://github.com/grammarly/perseverance)
   * [Dire](https://github.com/MichaelDrogalis/dire)
   
