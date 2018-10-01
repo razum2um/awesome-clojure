@@ -274,6 +274,7 @@
   * [Midje](https://github.com/marick/Midje)
   * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
   * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
+  * [kaocha](https://github.com/lambdaisland/kaocha)
 
 ## Webdriver automation
 
