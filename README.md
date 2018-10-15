@@ -364,6 +364,7 @@ anylysis and visualization.*
   * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
+  * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
 
 ## Documentation
 
