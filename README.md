@@ -353,6 +353,7 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
+  * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva)
   * [CIDER (Emacs)](https://github.com/clojure-emacs/cider)
   * [smartparens (Emacs)](https://github.com/Fuco1/smartparens)
   * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters)
@@ -363,6 +364,7 @@ anylysis and visualization.*
   * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
+  * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
 
 ## Documentation
 
