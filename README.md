@@ -78,6 +78,7 @@
 
 *Actually don't search rails/django here, but compose them by yourself*
   * [Compojure](https://github.com/weavejester/compojure)
+  * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
   * [Joodo](https://github.com/slagyr/joodoweb)
@@ -89,6 +90,7 @@
   * [Hoplon](http://hoplon.io/)
   * [Fulcro](https://github.com/fulcrologic/fulcro)
   * [Coast](http://coastonclojure.com/)
+  * [Reitit](https://github.com/metosin/reitit)
 
 ## Dependency injection
 
@@ -182,6 +184,7 @@
 ## JSON
 
   * [cheshire](https://github.com/dakrone/cheshire)
+  * [jsonista](https://github.com/metosin/jsonista)
 
 ## Database Cli
 
@@ -210,10 +213,11 @@
 *Libraries for developing RESTful APIs.*
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
-  * [compojure-api](https://github.com/metosin/compojure-api)
+  * [Compojure-api](https://github.com/metosin/compojure-api)
   * [Friboo](https://github.com/zalando/friboo)
   * [yada](https://github.com/juxt/yada)
   * [router](https://github.com/darkleaf/router)
+  * [reitit](https://github.com/metosin/reitit)
 
 ## Emails
 
