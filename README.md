@@ -266,6 +266,7 @@
 
   * [cats](https://github.com/funcool/cats)
   * [algo.monads](https://github.com/clojure/algo.monads)
+  * [Fluokitten](https://github.com/uncomplicate/fluokitten)
 
 ## WebSocket
 
@@ -310,6 +311,10 @@ anylysis and visualization.*
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms](https://github.com/bigmlcom/histogram)
   * [Gorilla REPL](http://gorilla-repl.org/)  
+  * [Bayadera - Bayesian Data Analysis on the GPU](https://github.com/uncomplicate/bayadera)
+  * [ClojureCUDA](https://github.com/uncomplicate/clojurecuda)
+  * [Neanderthal - fast matrix and linear algebra](https://github.com/uncomplicate/neanderthal)
+  * [ClojureCL - parallel computations with OpenCL](https://github.com/uncomplicate/clojurecl)
 
 ## Machine Learning
 
