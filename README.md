@@ -24,6 +24,7 @@
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
+  - [Advanced datastructures](#advanced-datastructures)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
   - [Build Automation and Package management](#build-automation-and-package-management)
@@ -73,7 +74,17 @@
   - [Twitter](#twitter)
   - [Exercises](#exercises)
 
+## Advanced datastructures
 
+  * [Persistent AVL trees](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
+  * [Finger Tree](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
+  * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
+  * [Hierarchical set](https://github.com/llasram/hier-set)
+  * [Ordered](https://github.com/amalloy/ordered): ordered sets and maps
+  * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
+  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure): atoms persisted on disk
+  * [Durable Queue](https://github.com/Factual/durable-queue): queue persisted on disk
+  
 ## Web Framework
 
 *Actually don't search rails/django here, but compose them by yourself*
