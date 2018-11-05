@@ -84,6 +84,7 @@
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
   * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure): atoms persisted on disk
   * [Durable Queue](https://github.com/Factual/durable-queue): queue persisted on disk
+  * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
 ## Web Framework
 
