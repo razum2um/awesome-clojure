@@ -41,6 +41,7 @@
   - [ORM and SQL generation](#orm-and-sql-generation)
   - [Security](#security)
   - [RESTful API](#restful-api)
+  - [GraphQL API](#graphql-api)
   - [Emails](#emails)
   - [HTML Manipulation](#html-manipulation)
   - [Data Validation](#data-validation)
@@ -230,6 +231,12 @@
   * [yada](https://github.com/juxt/yada)
   * [router](https://github.com/darkleaf/router)
   * [reitit](https://github.com/metosin/reitit)
+
+## GraphQL API
+
+*Libraries for developing GraphQL APIs.*
+
+  * [Lacinia](https://lacinia.readthedocs.io/en/latest/)
 
 ## Emails
 
