@@ -391,6 +391,7 @@ anylysis and visualization.*
   * [vim-redl (Vim)](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen (Vim)](https://github.com/tpope/vim-salve)
   * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
+  * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
