@@ -452,6 +452,7 @@ anylysis and visualization.*
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
   * [Error message catalog](https://github.com/yogthos/clojure-error-message-catalog)
   * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
+  * [Get Programming with Clojure](https://www.manning.com/books/get-programming-with-clojure)
 
 ## Video tutorials
 
