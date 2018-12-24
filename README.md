@@ -17,6 +17,7 @@
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [Meo](https://github.com/matthiasn/meo)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
+  - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
