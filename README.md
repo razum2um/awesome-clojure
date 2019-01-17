@@ -389,6 +389,8 @@ anylysis and visualization.*
   * [smartparens (Emacs)](https://github.com/Fuco1/smartparens)
   * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters)
   * [aggressive-indent (Emacs)](https://github.com/Malabarba/aggressive-indent-mode)
+  * [vim-cljfmt (Vim)](https://github.com/venantius/vim-cljfmt)
+  * [vim-eastwood (Vim)](https://github.com/venantius/vim-eastwood)
   * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace)
   * [vim-redl (Vim)](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen (Vim)](https://github.com/tpope/vim-salve)
