@@ -69,6 +69,8 @@
   - [Debugging tools](#debugging)
   - [CI](#ci)
   - [Project Management](#project-management)
+  - [Terminal UI](#terminal-ui)
+  - [Graphviz](#graphviz)
 
 - [Resources](#resources)
   - [Guides](#guides)
@@ -445,6 +447,25 @@ anylysis and visualization.*
 ## CI
 
   * [lambdacd](https://github.com/flosell/lambdacd)
+  
+## Project Management
+  
+  * [milestones](https://github.com/turbopape/milestones)
+
+## Terminal UI
+
+  * [clojure-lanterna](https://sjl.bitbucket.io/clojure-lanterna/)
+  * [triki](https://github.com/lambdaisland/trikl)
+  * [zaffre](https://github.com/aaron-santos/zaffre)
+  * [closh](https://github.com/dundalek/closh)
+  
+## Graphviz
+
+  * [zipper-viz](https://github.com/lambdaisland/zipper-viz)
+  * [dorothy](https://github.com/daveray/dorothy)
+  * [viz.cljc](https://github.com/jebberjeb/viz.cljc)
+  * [fsmviz](https://github.com/jebberjeb/fsmviz)
+  * [rhizome](https://github.com/ztellman/rhizome)
 
 ## Guides
 
@@ -493,7 +514,3 @@ anylysis and visualization.*
   * [exercism.io](http://exercism.io/languages/clojure)
   * [Clojurecademy](https://clojurecademy.com)
   * [Codewars](https://www.codewars.com/kata/search/clojure)
-
-## Project Management
-  
-  * [milestones](https://github.com/turbopape/milestones)
