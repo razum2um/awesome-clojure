@@ -420,6 +420,7 @@ anylysis and visualization.*
 
 ## Miscellaneous
 
+ * [potemkin](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
  * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
