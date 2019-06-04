@@ -126,6 +126,7 @@
   * [Boot](https://github.com/boot-clj/boot)
   * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
   * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
+  * [clojurephant](https://github.com/clojurephant/clojurephant) (Gradle plugin)
 
 ## Version Control Management
 
