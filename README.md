@@ -386,6 +386,10 @@ anylysis and visualization.*
   * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
   * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
 
+## Rule-based Programming
+  * [Clara Rules](https://github.com/cerner/clara-rules)
+  * [Arete](https://github.com/yipeeio/arete)
+
 ## Editor Plugins
 
   * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva)
