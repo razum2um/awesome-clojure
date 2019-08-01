@@ -223,6 +223,7 @@
 *Authentication, authorization and other security related libraries.*
 
   * [Buddy](https://github.com/funcool/buddy)
+  * [caesium](https://github.com/lvh/caesium) (libsodium bindings)
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
 
