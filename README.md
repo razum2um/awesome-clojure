@@ -450,6 +450,7 @@ anylysis and visualization.*
   * [prone](https://github.com/magnars/prone)
   * [figwheel](https://github.com/bhauman/lein-figwheel)
   * [ultra](https://github.com/venantius/ultra)
+  * [mate-clj](https://github.com/AppsFlyer/mate-clj)
 
 ## CI
 
