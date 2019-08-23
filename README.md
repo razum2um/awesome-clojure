@@ -71,6 +71,7 @@
   - [Project Management](#project-management)
   - [Terminal UI](#terminal-ui)
   - [Graphviz](#graphviz)
+  - [Search](#search)
 
 - [Resources](#resources)
   - [Guides](#guides)
@@ -475,7 +476,11 @@ anylysis and visualization.*
   * [viz.cljc](https://github.com/jebberjeb/viz.cljc)
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
+  
+## Search
 
+  * [beagle](https://github.com/tokenmill/beagle)
+  
 ## Guides
 
   * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
