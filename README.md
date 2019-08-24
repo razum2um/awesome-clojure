@@ -58,7 +58,7 @@
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
   - [Computer Vision](#computer-vision)
-  - [Natural Language Processing](#natural-language-processing)
+  - [Text Processing](#text-processing)
   - [Parsing](#parsing)
   - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
@@ -71,7 +71,6 @@
   - [Project Management](#project-management)
   - [Terminal UI](#terminal-ui)
   - [Graphviz](#graphviz)
-  - [Search](#search)
 
 - [Resources](#resources)
   - [Guides](#guides)
@@ -366,10 +365,11 @@ anylysis and visualization.*
   * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)
   * [vision](http://nakkaya.com/vision.html)
 
-## Natural Language Processing
+## Text Processing
 
   * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
   * [postagga](https://github.com/turbopape/postagga)
+  * [beagle](https://github.com/tokenmill/beagle)
 
 ## Parsing
 
@@ -476,10 +476,6 @@ anylysis and visualization.*
   * [viz.cljc](https://github.com/jebberjeb/viz.cljc)
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
-
-## Search
-
-  * [beagle](https://github.com/tokenmill/beagle)
 
 ## Guides
 
