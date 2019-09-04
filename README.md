@@ -178,6 +178,7 @@
   * [Spandex (ElasticSearch)](https://github.com/mpenet/spandex)
   * [Elastisch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
+  * [Aerospike](https://github.com/AppsFlyer/aerospike-clj)
 
 ## Connection pools
 
