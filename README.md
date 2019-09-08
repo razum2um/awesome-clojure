@@ -324,6 +324,7 @@
   * [lein-bikeshed](https://github.com/dakrone/lein-bikeshed)
   * [spectrum](https://github.com/arohner/spectrum)
   * [cloverage](https://github.com/cloverage/cloverage)
+  * [clj-kondo](https://github.com/borkdude/clj-kondo)
 
 ## Science and Data Analysis
 
