@@ -139,6 +139,7 @@
 *Libraries for working with dates and times.*
 
   * [clj-time](https://github.com/clj-time/clj-time)
+  * [clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
   * [timewords](https://github.com/tokenmill/timewords)
 
 ## GUI
