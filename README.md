@@ -146,6 +146,7 @@
 
   * [fx-clj](https://github.com/aaronc/fx-clj)
   * [seesaw](https://github.com/daveray/seesaw)
+  * [trikl](https://github.com/lambdaisland/trikl)
 
 ## Audio
 
