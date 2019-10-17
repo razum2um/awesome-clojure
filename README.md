@@ -9,6 +9,7 @@
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
   - [Metabase](https://github.com/metabase/metabase)
+  - [Metabase Datomic](https://github.com/lambdaisland/metabase-datomic)
   - [CircleCI](https://circleci.com/)
   - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
