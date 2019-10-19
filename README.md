@@ -129,6 +129,7 @@
   * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
   * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
   * [clojurephant](https://github.com/clojurephant/clojurephant) (Gradle plugin)
+  * [shadow-cljs](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
 ## Version Control Management
 
@@ -287,6 +288,7 @@
   * [defun](https://github.com/killme2008/defun)
   * [cats.match](https://github.com/zalando/cats.match)
   * [Akar](https://github.com/missingfaktor/akar)
+  * [Meander](https://github.com/noprompt/meander)
 
 ## Async processing
 
