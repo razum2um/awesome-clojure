@@ -385,6 +385,7 @@ anylysis and visualization.*
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
+  * [buran](https://github.com/alekseysotnikov/buran) - RSS/Atom feed consumer and producer
   
 ## Exceptions and Error Handling
   * [Ex](https://github.com/mpenet/ex)
