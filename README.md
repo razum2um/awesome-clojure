@@ -218,7 +218,7 @@
 
 *DSL for SQL generation.*
   * [Walkable](https://github.com/walkable-server/walkable)
-  * [Korma](http://sqlkorma.com/)
+  * [Korma](https://github.com/korma/Korma)
   * [Specql](https://github.com/tatut/specql/)
   * [stch-library/sql](https://github.com/stch-library/sql)
   * [sqlingvo](https://github.com/r0man/sqlingvo)
