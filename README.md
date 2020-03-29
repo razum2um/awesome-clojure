@@ -275,6 +275,7 @@
   * [Bouncer](https://github.com/leonardoborges/bouncer)
   * [clova](https://github.com/markwoodhall/clova)
   * [Orchestra](https://github.com/jeaye/orchestra)
+  * [struct](https://github.com/funcool/struct)
 
 ## Type System
 *Optional type system for Clojure*
