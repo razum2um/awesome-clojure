@@ -174,6 +174,7 @@
   * [Datomic](http://www.datomic.com/)
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
+  * [Datalevin](https://github.com/juji-io/datalevin)
   * [Cassandra](https://github.com/mpenet/alia)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
