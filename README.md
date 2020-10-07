@@ -236,6 +236,7 @@
   * [caesium](https://github.com/lvh/caesium) (libsodium bindings)
   * [Friend](https://github.com/cemerick/friend)
   * [bolt](https://github.com/juxt/bolt)
+  * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
 
 ## RESTful API
 
