@@ -24,7 +24,7 @@
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
-  - [mal](https://github.com/kanaka/mal/tree/master/clojure)
+  - [mal](https://github.com/kanaka/mal)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
