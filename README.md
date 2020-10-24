@@ -423,7 +423,7 @@ anylysis and visualization.*
   * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
-  * [Bracket Pair Colorizer (VSCode)](https://github.com/kristoft/awesome-clojure.git)
+  * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
 ## Documentation
 
