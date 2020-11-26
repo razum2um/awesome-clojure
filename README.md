@@ -21,6 +21,8 @@
   - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
   - [Atea](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
+  - [Logseq](https://logseq.com/): a _privacy-first_, _open-source_ platform for _knowledge_ sharing and management.
+  - [Penpot](https://penpot.app/): The Open-Source prototyping tool
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
