@@ -145,6 +145,7 @@
   * [clj-time](https://github.com/clj-time/clj-time)
   * [clojure.java-time](https://github.com/dm3/clojure.java-time) - Java 8 Date-Time API
   * [timewords](https://github.com/tokenmill/timewords)
+  * [tick](https://github.com/juxt/tick): Clojure(Script) library, intended as replacement for clj-time
 
 ## GUI
 
