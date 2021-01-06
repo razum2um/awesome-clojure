@@ -120,6 +120,7 @@
   * [System](https://github.com/danielsz/system)
   * [mount](https://github.com/tolitius/mount)
   * [Integrant](https://github.com/weavejester/integrant)
+  * [clip](https://github.com/juxt/clip)
 
 ## Build Automation and Package management
 
