@@ -163,11 +163,11 @@
 
 *Libraries for working with HTTP.*
 
-  * [clj-http](https://github.com/dakrone/clj-http)
-  * [http-kit](http://www.http-kit.org/)
-  * [ring](https://github.com/ring-clojure/ring)
-  * [kvlt](https://github.com/nervous-systems/kvlt)
-  * [aleph](https://github.com/ztellman/aleph)
+  * [clj-http](https://github.com/dakrone/clj-http) :  Apache HttpComponents client wrapper
+  * [http-kit](https://github.com/http-kit/http-kit) : Simple, high-performance event-driven HTTP client and server
+  * [ring](https://github.com/ring-clojure/ring) : HTTP server abstraction
+  * [kvlt](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
+  * [aleph](https://github.com/clj-commons/aleph) : Async server based on Netty, with defaults for HTTP, TCP and UDP
 
 ## Database
 
