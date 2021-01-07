@@ -126,6 +126,17 @@
 
 *Libraries for project build automation and package/dependency management.*
 
+  * [clojure-deps-edn](https://github.com/practicalli/clojure-deps-edn) : Over 30 aliases supporting [`deps.edn`](https://clojure.org/reference/deps_and_cli) project development
+  * [dot-clojure](https://github.com/seancorfield/dot-clojure) : Sean Corfield's personal `.clojure/deps.edn` file
+  * [clj-new](https://github.com/seancorfield/clj-new) : Generate new projects from Leiningen or Boot templates, or `clj-template` projects
+  * [Antq](https://github.com/liquidz/antq) : Point out your outdated dependencies
+  * [clj-check](https://github.com/athos/clj-check) : Check syntax and warn on reflection, for `deps.edn` projects
+  * [depstar](https://github.com/seancorfield/depstar) : Builds JARs, uberjars, does AOT, manifest generation, etc for `deps.edn` projects
+  * [Cambada](https://github.com/luchiniatwork/cambada) : Package `deps.edn` project as jar, uberjar or GraalVM native image
+  * [uberdeps](https://github.com/tonsky/uberdeps) : Uberjar builder for `deps.edn` projects
+  * [pack.alpha](https://github.com/juxt/pack.alpha) : Pack a `deps.edn` project in various ways
+  * [deps-deploy](https://github.com/slipset/deps-deploy/) : Deploys to [Clojars](https://clojars.org/)
+  * [find-deps](https://github.com/hagmonk/find-deps) : Fuzzy search for dependencies in Clojars and Maven repositories
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
   * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
