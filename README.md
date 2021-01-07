@@ -167,7 +167,7 @@
   * [http-kit](https://github.com/http-kit/http-kit) : Simple, high-performance event-driven HTTP client and server
   * [ring](https://github.com/ring-clojure/ring) : HTTP server abstraction
   * [kvlt](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
-  * [aleph](https://github.com/clj-commons/aleph) : Async server based on Netty, with defaults for HTTP, TCP and UDP
+  * [aleph](https://github.com/clj-commons/aleph) : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
 
 ## Database
 
