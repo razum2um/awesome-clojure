@@ -178,6 +178,8 @@
   * [Datascript](https://github.com/tonsky/datascript)
   * [Datalevin](https://github.com/juji-io/datalevin)
   * [Cassandra](https://github.com/mpenet/alia)
+  * [next.jdbc](https://github.com/seancorfield/next-jdbc)
+  * [clojure.java.jdbc](https://github.com/clojure/java.jdbc)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
   * [cravendb](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
