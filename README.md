@@ -387,6 +387,7 @@ anylysis and visualization.*
   * [clojure-opennlp](https://github.com/dakrone/clojure-opennlp)
   * [postagga](https://github.com/turbopape/postagga)
   * [beagle](https://github.com/tokenmill/beagle)
+  * [lmgrep](https://github.com/dainiusjocas/lucene-grep)
 
 ## Parsing
 
