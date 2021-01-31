@@ -93,7 +93,7 @@
   * [Durable Queue](https://github.com/Factual/durable-queue): queue persisted on disk
   * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
-## Web Framework
+## Web Frameworkzzzz
 
 *Actually don't search rails/django here, but compose them by yourself*
   * [Compojure](https://github.com/weavejester/compojure)
@@ -370,6 +370,8 @@ anylysis and visualization.*
   * [clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)
   * [dl4clj (deeplearning4j to clojure)](https://github.com/yetanalytics/dl4clj)
   * [Anglican](https://probprog.github.io/anglican/)
+  * [Flare](https://github.com/aria42/flare)
+  * [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
 
 ## Computer Vision
 
