@@ -529,6 +529,7 @@ anylysis and visualization.*
   * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
   * [Try Clojure](http://www.tryclj.com/)
+  * [Clojure - Community Curated Resources](https://hackr.io/tutorials/learn-clojure)
 
 ## Twitter
 
