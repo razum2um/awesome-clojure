@@ -507,6 +507,7 @@ anylysis and visualization.*
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
   * [Error message catalog](https://github.com/yogthos/clojure-error-message-catalog)
   * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
+  * [Tinycanva: Clojure guide for React Developers (PAID)](https://www.newline.co/courses/tinycanva-clojure-for-react-developers)
 
 ## Video tutorials
 
