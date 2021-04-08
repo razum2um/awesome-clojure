@@ -415,6 +415,7 @@ anylysis and visualization.*
 ## Editor Plugins
 
   * [Calva (VSCode)](https://github.com/BetterThanTomorrow/calva)
+  * [clojure-lsp (multiple editors)](https://github.com/clojure-lsp/clojure-lsp)
   * [CIDER (Emacs)](https://github.com/clojure-emacs/cider)
   * [smartparens (Emacs)](https://github.com/Fuco1/smartparens)
   * [rainbow-delimiters (Emacs)](https://github.com/Fanael/rainbow-delimiters)
