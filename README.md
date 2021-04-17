@@ -121,6 +121,7 @@
   * [mount](https://github.com/tolitius/mount)
   * [Integrant](https://github.com/weavejester/integrant)
   * [clip](https://github.com/juxt/clip)
+  * [piotr-yuxuan/closeable-map](https://github.com/piotr-yuxuan/closeable-map)
 
 ## Build Automation and Package management
 
