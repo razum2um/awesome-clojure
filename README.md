@@ -528,7 +528,6 @@ anylysis and visualization.*
   * [clojure-doc](http://clojure-doc.org/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
-  * [Try Clojure](http://www.tryclj.com/)
 
 ## Twitter
 
