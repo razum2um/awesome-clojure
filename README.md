@@ -525,10 +525,8 @@ anylysis and visualization.*
   * [Clojure](http://clojure.org/)
   * [Clojure Slack](http://clojurians.net/)
   * [clojuredocs](http://clojuredocs.org)
-  * [crossclj](https://crossclj.info/)
   * [clojure-doc](http://clojure-doc.org/)
   * [The Clojure Toolbox](http://www.clojure-toolbox.com/)
-  * [InstaREPL Online](http://web.clojurerepl.com/)
   * [ZEEF/Clojure](https://clojure.zeef.com/vlad.bokov)
   * [Try Clojure](http://www.tryclj.com/)
 
