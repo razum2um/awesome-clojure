@@ -83,6 +83,7 @@
 
 ## Advanced datastructures
 
+  * [specter](https://github.com/redplanetlabs/specter): an elegant API for querying and transforming nested and recursive data
   * [Persistent AVL trees](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
   * [Finger Tree](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
   * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
