@@ -21,6 +21,7 @@
   - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
   - [Atea](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
+  - [Ziggurat](https://github.com/gojek/ziggurat): a framework built to simplify Stream processing on Kafka
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
