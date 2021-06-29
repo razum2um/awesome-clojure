@@ -494,6 +494,7 @@ anylysis and visualization.*
   * [triki](https://github.com/lambdaisland/trikl)
   * [zaffre](https://github.com/aaron-santos/zaffre)
   * [closh](https://github.com/dundalek/closh)
+  * [piotr-yuxuan/malli-cli](https://github.com/piotr-yuxuan/malli-cli)
   
 ## Graphviz
 
