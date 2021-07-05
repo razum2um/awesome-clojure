@@ -528,6 +528,7 @@ anylysis and visualization.*
 ## Websites
 
   * [Clojure](http://clojure.org/)
+  * [Hackr.io](https://hackr.io/tutorials/learn-clojure)
   * [Clojure Slack](http://clojurians.net/)
   * [clojuredocs](http://clojuredocs.org)
   * [clojure-doc](http://clojure-doc.org/)
