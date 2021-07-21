@@ -2,7 +2,6 @@
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://lighttable.com/)
-  - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
@@ -14,12 +13,10 @@
   - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
-  - [Nightlight (Text Editor)](https://github.com/oakes/Nightlight)
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [meins](https://github.com/matthiasn/meins)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
-  - [Atea](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
   - [Ziggurat](https://github.com/gojek/ziggurat): a framework built to simplify Stream processing on Kafka
 - [Languages written with Clojure](#languages-written-with-clojure)
@@ -28,12 +25,11 @@
   - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
-- [Awesome tools in Clojure](#awesome-tools-in-clojure)
+- [Awesome tools in Clojure](#awesome-tools-in-clojure)  
   - [Advanced datastructures](#advanced-datastructures)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
   - [Build Automation and Package management](#build-automation-and-package-management)
-  - [Version Control Management](#version-control-management)
   - [Date and Time](#date-and-time)
   - [GUI](#gui)
   - [Audio](#audio)
@@ -43,6 +39,7 @@
   - [Structural Migrations](#structural-migrations)
   - [Redis](#redis)
   - [JSON](#json)
+  - [Database Cli](#database-cli)
   - [ORM and SQL generation](#orm-and-sql-generation)
   - [Security](#security)
   - [RESTful API](#restful-api)
@@ -60,20 +57,24 @@
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
-  - [Computer Vision](#computer-vision)
   - [Text Processing](#text-processing)
   - [Parsing](#parsing)
-  - [Reflection](#reflection)
+  - [Exceptions and Error Handling](#exceptions-and-error-handling)
+  - [Rule-based Programming](#rule-based-programming)
   - [Editor Plugins](#editor-plugins)
-  - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
-  - [Archives and Compression](#archives-and-compression)
   - [Miscellaneous](#miscellaneous)
-  - [Debugging tools](#debugging)
+  - [Debugging](#debugging)
   - [CI](#ci)
   - [Project Management](#project-management)
   - [Terminal UI](#terminal-ui)
   - [Graphviz](#graphviz)
+  - [Guides](#guides)
+  - [Video tutorials](#video-tutorials)
+    - [YouTube](#youtube)
+  - [Websites](#websites)
+  - [Twitter](#twitter)
+  - [Exercises](#exercises)
 
 - [Resources](#resources)
   - [Guides](#guides)
@@ -88,10 +89,9 @@
   * [Persistent AVL trees](https://github.com/clojure/data.avl): persistent sorted maps and sets with log-time rank queries
   * [Finger Tree](https://github.com/clojure/data.finger-tree): double-list, counted-double-list, counted-sorted-set
   * [Hitchhiker Tree](https://github.com/datacrypt-project/hitchhiker-tree): create fast, snapshottable, massively scalable databases
-  * [Hierarchical set](https://github.com/llasram/hier-set)
   * [Ordered](https://github.com/amalloy/ordered): ordered sets and maps
   * [Lazy Map](https://github.com/Malabarba/lazy-map-clojure): whose values are only calculated when accessed
-  * [Duratom](https://github.com/jimpil/duratom), [enduro](https://github.com/alandipert/enduro), [perdure](https://github.com/pesterhazy/perdure): atoms persisted on disk
+  * [Duratom](https://github.com/jimpil/duratom): atoms persisted on disk
   * [Durable Queue](https://github.com/Factual/durable-queue): queue persisted on disk
   * [bifurcan](https://github.com/lacuna/bifurcan): linear map/set/list (stores entries contiguously in memory), ;writtern in java, but test suite (read: usage examples) [in clojure](https://github.com/lacuna/bifurcan/blob/master/test/bifurcan)
   
@@ -100,10 +100,7 @@
 *Actually don't search rails/django here, but compose them by yourself*
   * [Compojure](https://github.com/weavejester/compojure)
   * [Compojure-api](https://github.com/metosin/compojure-api)
-  * [Web Non-Framework](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
-  * [Joodo](https://github.com/slagyr/joodoweb)
-  * [Coils](https://github.com/l4u/coils)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal](https://github.com/pedestal/pedestal)
   * [Datsys](https://github.com/metasoarous/datsys)
@@ -131,16 +128,8 @@
 
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
-  * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
-  * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
   * [clojurephant](https://github.com/clojurephant/clojurephant) (Gradle plugin)
   * [shadow-cljs](https://github.com/thheller/shadow-cljs) (Clojurescript)
-
-## Version Control Management
-
-*Code utilities for interacting with VCS software*
-
-  * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
@@ -153,7 +142,6 @@
 
 ## GUI
 
-  * [fx-clj](https://github.com/aaronc/fx-clj)
   * [seesaw](https://github.com/daveray/seesaw)
   * [trikl](https://github.com/lambdaisland/trikl)
 
@@ -180,18 +168,16 @@
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
   * [Datalevin](https://github.com/juji-io/datalevin)
-  * [Cassandra](https://github.com/mpenet/alia)
+  * [Alia (Cassandra)](https://github.com/mpenet/alia)
   * [next.jdbc](https://github.com/seancorfield/next-jdbc)
   * [clojure.java.jdbc](https://github.com/clojure/java.jdbc)
   * [clojure.jdbc](https://github.com/funcool/clojure.jdbc)
-  * [cravendb](https://github.com/robashton/cravendb)
-  * [Mongo](http://clojuremongodb.info/)
-  * [Monglorious](https://baumandm.github.io/monglorious/)
-  * [RethinkDB](https://github.com/apa512/clj-rethinkdb)
-  * [Revise (RethinkDB)](https://github.com/bitemyapp/revise)
+  * [Monger (MongoDB)](http://clojuremongodb.info/)
+  * [Monglorious (MongoDB)](https://baumandm.github.io/monglorious/)
+  * [Clj-RethinkDB (RethinkDB)](https://github.com/apa512/clj-rethinkdb)
   * [Spandex (ElasticSearch)](https://github.com/mpenet/spandex)
-  * [Elastisch](http://clojureelasticsearch.info/)
-  * [Neo4j](http://clojureneo4j.info/)
+  * [ClojureElasticSearch](http://clojureelasticsearch.info/)
+  * [ClojureNeo4j](http://clojureneo4j.info/)
   * [Aerospike](https://github.com/AppsFlyer/aerospike-clj)
 
 ## Connection pools
@@ -205,7 +191,6 @@
 
 *Keeps database and others in sync*
 
-  * [Lobos](https://github.com/budu/lobos)
   * [Ragtime](https://github.com/weavejester/ragtime)
   * [Joplin](https://github.com/juxt/joplin)
   * [Migratus](https://github.com/yogthos/migratus)
@@ -242,7 +227,6 @@
   * [Buddy](https://github.com/funcool/buddy)
   * [caesium](https://github.com/lvh/caesium) (libsodium bindings)
   * [Friend](https://github.com/cemerick/friend)
-  * [bolt](https://github.com/juxt/bolt)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
 
 ## RESTful API
@@ -281,7 +265,6 @@
 
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema](https://github.com/plumatic/schema)
-  * [domaintypes](https://github.com/friemen/domaintypes)
   * [Bouncer](https://github.com/leonardoborges/bouncer)
   * [clova](https://github.com/markwoodhall/clova)
   * [Orchestra](https://github.com/jeaye/orchestra)
@@ -295,7 +278,6 @@
 ## Pattern Matching
 
   * [core.match](https://github.com/clojure/core.match)
-  * [Verbal-Exprejon](https://github.com/GuillaumeBadi/Verbal-Exprejon)
   * [defun](https://github.com/killme2008/defun)
   * [cats.match](https://github.com/zalando/cats.match)
   * [Akar](https://github.com/missingfaktor/akar)
@@ -323,7 +305,6 @@
 
   * [Expectations](https://github.com/clojure-expectations/expectations)
   * [Midje](https://github.com/marick/Midje)
-  * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
   * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha](https://github.com/lambdaisland/kaocha)
 
@@ -336,7 +317,6 @@
   * [Slamhound](https://github.com/technomancy/slamhound)
   * [eastwood](https://github.com/jonase/eastwood)
   * [kibit](https://github.com/jonase/kibit)
-  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
   * [yagni](https://github.com/venantius/yagni)
   * [lein-bikeshed](https://github.com/dakrone/lein-bikeshed)
   * [spectrum](https://github.com/arohner/spectrum)
@@ -354,7 +334,6 @@ anylysis and visualization.*
   * [sparklling](https://github.com/gorillalabs/sparkling)
   * [flambo](https://github.com/yieldbot/flambo)
   * [Neanderthal](https://github.com/uncomplicate/neanderthal)
-  * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms](https://github.com/bigmlcom/histogram)
   * [Gorilla REPL](http://gorilla-repl.org/)  
   * [Bayadera - Bayesian Data Analysis on the GPU](https://github.com/uncomplicate/bayadera)
@@ -365,25 +344,14 @@ anylysis and visualization.*
 
 ## Machine Learning
 
-  * [clj-ml](https://github.com/antoniogarrote/clj-ml)
   * [cortex](https://github.com/originrose/cortex)
   * [clj-bigml](https://github.com/bigmlcom/clj-bigml)
-  * [Clatern](https://github.com/rinuboney/clatern)
   * [Deeplearning4j](https://github.com/deeplearning4j/deeplearning4j)
   * [Enclog](https://github.com/jimpil/enclog)
-  * [Infer](https://github.com/aria42/infer)
-  * [k9](https://github.com/gigasquid/k9)
   * [lambda-ml](https://github.com/cloudkj/lambda-ml)
-  * [Statistiker](https://github.com/clojurewerkz/statistiker)
-  * [Synaptic](https://github.com/japonophile/synaptic)
   * [clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)
   * [dl4clj (deeplearning4j to clojure)](https://github.com/yetanalytics/dl4clj)
   * [Anglican](https://probprog.github.io/anglican/)
-
-## Computer Vision
-
-  * [clj-tesseract](https://github.com/antoniogarrote/clj-tesseract)
-  * [vision](http://nakkaya.com/vision.html)
 
 ## Text Processing
 
@@ -402,15 +370,7 @@ anylysis and visualization.*
 ## Exceptions and Error Handling
   * [Ex](https://github.com/mpenet/ex)
   * [Perseverance](https://github.com/grammarly/perseverance)
-  * [Dire](https://github.com/MichaelDrogalis/dire)
   
-## Reflection
-*Libraries for improved code reflection and object introspection
-
-  * [hara.reflect](docs.caudate.me/hara/hara-reflect.html)
-  * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
-  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
-
 ## Rule-based Programming
   * [Clara Rules](https://github.com/cerner/clara-rules)
   * [Arete](https://github.com/yipeeio/arete)
@@ -427,9 +387,7 @@ anylysis and visualization.*
   * [vim-cljfmt (Vim)](https://github.com/venantius/vim-cljfmt)
   * [vim-eastwood (Vim)](https://github.com/venantius/vim-eastwood)
   * [vim-fireplace (Vim)](https://github.com/tpope/vim-fireplace)
-  * [vim-redl (Vim)](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen (Vim)](https://github.com/tpope/vim-salve)
-  * [rainbow_parentheses.vim (Vim)](https://github.com/junegunn/rainbow_parentheses.vim)
   * [vim-iced (Vim)](https://github.com/liquidz/vim-iced)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [proto-repl (Atom)](https://atom.io/packages/proto-repl)
@@ -437,29 +395,16 @@ anylysis and visualization.*
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
 
-## Documentation
-
-*Utilities and libraries for (non-LP) code and project documentation*
-
- * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
-
 ## Literate Programming
 
   * [marginalia](https://github.com/gdeer81/marginalia)
   * [klipse](https://github.com/viebel/klipse)
 
-## Archives and Compression
-
-  * [swindon (java.util.zip wrapper)](https://github.com/AeroNotix/swindon)
-
 ## Miscellaneous
 
  * [potemkin](https://github.com/ztellman/potemkin) - reexport vars in another ns / act like a clojure map
- * [clj-tuple](https://github.com/ztellman/clj-tuple)
  * [slingshot](https://github.com/scgilardi/slingshot)
- * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
  * [virgil](https://github.com/ztellman/virgil)
- * [javastar](https://github.com/tailrecursion/javastar)
  * [riddley](https://github.com/ztellman/riddley)
  * [kezban](https://github.com/ertugrulcetin/kezban)
 
@@ -467,12 +412,7 @@ anylysis and visualization.*
 
   * [tools.trace](https://github.com/clojure/tools.trace)
   * [debugger](https://github.com/razum2um/clj-debugger)
-  * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
-  * [ritz](https://github.com/pallet/ritz)
-  * [redl](https://github.com/dgrnbrg/redl)
-  * [limit-break](https://github.com/technomancy/limit-break)
   * [spyscope](https://github.com/dgrnbrg/spyscope)
-  * [aprint](https://github.com/razum2um/aprint)
   * [packed-printer](https://github.com/cgrand/packed-printer)
   * [pretty](https://github.com/AvisoNovate/pretty)
   * [prone](https://github.com/magnars/prone)
@@ -490,7 +430,6 @@ anylysis and visualization.*
 
 ## Terminal UI
 
-  * [clojure-lanterna](https://sjl.bitbucket.io/clojure-lanterna/)
   * [triki](https://github.com/lambdaisland/trikl)
   * [zaffre](https://github.com/aaron-santos/zaffre)
   * [closh](https://github.com/dundalek/closh)
@@ -542,8 +481,5 @@ anylysis and visualization.*
 
   * [Clojure Koans](http://clojurekoans.com)
   * [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
-  * [Clojure Katas](http://clojurekatas.org)
-  * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
-  * [Clojurecademy](https://clojurecademy.com)
   * [Codewars](https://www.codewars.com/kata/search/clojure)
