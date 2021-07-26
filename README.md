@@ -430,6 +430,7 @@ anylysis and visualization.*
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
   * [Bracket Pair Colorizer (VSCode)](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
   * [clojureVSCode (VSCode)](https://github.com/avli/clojureVSCode)
+  * [Notepad++](https://github.com/linpengcheng/ClojureBoxNpp): modified config files of Lisp
 
 ## Documentation
 
