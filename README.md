@@ -456,6 +456,7 @@ anylysis and visualization.*
  * [javastar](https://github.com/tailrecursion/javastar)
  * [riddley](https://github.com/ztellman/riddley)
  * [kezban](https://github.com/ertugrulcetin/kezban)
+ * [clj-grpc](https://github.com/otwieracz/clj-grpc)
 
 ## Debugging
 
