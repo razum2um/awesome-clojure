@@ -1,6 +1,7 @@
 # Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
+  - [Penpot](https://penpot.app/): design and prototyping platform
   - [LightTable (IDE)](http://lighttable.com/)
   - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
@@ -22,6 +23,8 @@
   - [Atea](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS
   - [Accelerated Text](https://github.com/tokenmill/accelerated-text): a natural language generation environment (backend: Clojure, frontend: JS)
   - [Ziggurat](https://github.com/gojek/ziggurat): a framework built to simplify Stream processing on Kafka
+- [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
+  - [Logseq](https://github.com/logseq/logseq): knowledge management and collaboration (open frontend)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank](https://github.com/jeaye/jank)
   - [lux](https://github.com/LuxLang/lux)
@@ -379,6 +382,8 @@ anylysis and visualization.*
   * [clojure-tensorflow](https://github.com/kieranbrowne/clojure-tensorflow)
   * [dl4clj (deeplearning4j to clojure)](https://github.com/yetanalytics/dl4clj)
   * [Anglican](https://probprog.github.io/anglican/)
+  * [Flare](https://github.com/aria42/flare)
+  * [MXNet - Clojure API](https://mxnet.apache.org/versions/1.7.0/api/clojure)
 
 ## Computer Vision
 
