@@ -510,6 +510,10 @@ anylysis and visualization.*
   * [Error message catalog](https://github.com/yogthos/clojure-error-message-catalog)
   * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
 
+## Books
+
+* [Clojure, The Essential Reference](https://www.manning.com/books/clojure-the-essential-reference)
+
 ## Video tutorials
 
 ### YouTube
