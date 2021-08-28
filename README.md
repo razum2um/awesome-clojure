@@ -379,6 +379,7 @@ anylysis and visualization.*
   * [Statistiker](https://github.com/clojurewerkz/statistiker)
   * [Synaptic](https://github.com/japonophile/synaptic)
   * [Infer](https://github.com/aria42/infer)
+  * [clj-synapses](https://cljdoc.org/d/org.clojars.mrdimosthenis/clj-synapses/)
 
 ## Computer Vision
 
