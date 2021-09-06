@@ -168,6 +168,7 @@
   * [ring](https://github.com/ring-clojure/ring) : HTTP server abstraction
   * [kvlt](https://github.com/nervous-systems/kvlt) : Uniform, asychronous client interface for HTTP across JVM / Node / browsers
   * [aleph](https://github.com/clj-commons/aleph) : Async client/server based on Netty, with defaults for HTTP, TCP and UDP
+  * [hato](https://github.com/gnarroway/hato) : An HTTP client for Clojure, wrapping JDK 11's HttpClient
 
 ## Database
 
