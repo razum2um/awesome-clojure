@@ -175,6 +175,7 @@
 *Databases and database client libraries*
 
   * [Datomic](http://www.datomic.com/)
+  * [xtdb](https://github.com/xtdb/xtdb): bitemporal database for SQL, Datalog & graph queries
   * [Datahike](https://github.com/replikativ/datahike)
   * [Datascript](https://github.com/tonsky/datascript)
   * [Datalevin](https://github.com/juji-io/datalevin)
