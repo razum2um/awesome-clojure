@@ -382,6 +382,7 @@ anylysis and visualization.*
   * [Synaptic](https://github.com/japonophile/synaptic)
   * [Infer](https://github.com/aria42/infer)
   * [clj-synapses](https://github.com/mrdimosthenis/clj-synapses)
+  * [scicloj.ml](https://github.com/scicloj/scicloj.ml)
 
 ## Computer Vision
 
