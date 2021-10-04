@@ -410,6 +410,7 @@ anylysis and visualization.*
   * [Dire](https://github.com/MichaelDrogalis/dire)
 
 ## Rule-based Programming
+  * [O'Doyle Rules](https://github.com/oakes/odoyle-rules)
   * [Clara Rules](https://github.com/cerner/clara-rules)
   * [Arete](https://github.com/yipeeio/arete)
 
