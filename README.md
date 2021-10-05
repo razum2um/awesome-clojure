@@ -46,6 +46,7 @@
   - [Structural Migrations](#structural-migrations)
   - [Redis](#redis)
   - [JSON](#json)
+  - [Protocol Buffers and gRPC](#protocol-buffers-and-grpc)
   - [ORM and SQL generation](#orm-and-sql-generation)
   - [Security](#security)
   - [RESTful API](#restful-api)
