@@ -220,6 +220,11 @@
   * [cheshire](https://github.com/dakrone/cheshire)
   * [jsonista](https://github.com/metosin/jsonista)
 
+## Protocol Buffers and gRPC
+
+  * [pronto](https://github.com/AppsFlyer/pronto)
+  * [lein-protodeps](https://github.com/AppsFlyer/lein-protodeps)
+
 ## Database Cli
 
 ## ORM and SQL generation
