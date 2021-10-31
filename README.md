@@ -32,6 +32,7 @@
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
+  - [Awesome macros usage](#awesome-macros-usage)
   - [Advanced datastructures](#advanced-datastructures)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
@@ -84,6 +85,17 @@
   - [Twitter](#twitter)
   - [Exercises](#exercises)
 
+# Awesome macros usage
+
+*Answers why the lisp shines, killer features in action*
+
+  * [core.async](https://github.com/clojure/core.async) - transforms AST into CSP programs
+  * [cloroutine](https://github.com/leonoel/cloroutine) - suspends and continuations (coroutines)
+  * [missionary](https://github.com/leonoel/missionary) - a reactive dataflow programming toolkit
+  * [photon](https://github.com/venantius/photon) - realtime web, like Meteor, but for Clojure(Script)
+  * [metaclj](https://github.com/brandonbloom/metaclj) - staged compilation
+  * [meander](https://github.com/noprompt/meander) - transparent data transformation using datastructure pattermatching
+  * [proteus](https://github.com/ztellman/proteus) - introduce mutable variables (don't use, just learn how to map your mind into immutable world)
 ## Advanced datastructures
 
   * [specter](https://github.com/redplanetlabs/specter): an elegant API for querying and transforming nested and recursive data
