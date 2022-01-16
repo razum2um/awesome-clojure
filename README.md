@@ -11,7 +11,6 @@
   - [Metabase](https://github.com/metabase/metabase)
   - [Metabase Datomic](https://github.com/lambdaisland/metabase-datomic)
   - [CircleCI](https://circleci.com/)
-  - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
   - [Clojupyter](https://github.com/clojupyter/clojupyter)
