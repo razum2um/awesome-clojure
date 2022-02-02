@@ -73,6 +73,7 @@
   - [Archives and Compression](#archives-and-compression)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
+  - [Performance Analysis, Benchmarking and Profiling](#performance-analysis)
   - [CI](#ci)
   - [Project Management](#project-management)
   - [Terminal UI](#terminal-ui)
@@ -491,6 +492,12 @@ anylysis and visualization.*
   * [figwheel](https://github.com/bhauman/lein-figwheel)
   * [ultra](https://github.com/venantius/ultra)
   * [mate-clj](https://github.com/AppsFlyer/mate-clj)
+
+## Performance Analysis
+
+  * [criterium](https://github.com/hugoduncan/criterium): Benchmarking library for clojure
+  * [clj-async-profiler](https://github.com/clojure-goes-fast/clj-async-profiler): Embeddable Clojure profiler built on [jvm-async-profiler](https://github.com/jvm-profiling-tools/async-profiler)
+  * [jmh-clojure](https://github.com/jgpc42/jmh-clojure): Seamless JMH benchmarking for Clojure
 
 ## CI
 
