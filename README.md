@@ -15,7 +15,6 @@
   - [asciinema](https://asciinema.org/)
   - [Avi (vim rewrite)](https://github.com/maitria/avi)
   - [Liquid (Text Editor)](https://github.com/mogenslund/liquid)
-  - [Clojupyter](https://github.com/clojupyter/clojupyter)
   - [meins](https://github.com/matthiasn/meins)
   - [Jepsen](https://github.com/jepsen-io/jepsen)
   - [Braid](https://github.com/braidchat/braid): a team-chat app with a novel UI that leads to better conversations
@@ -83,6 +82,7 @@
   - [Performance Analysis, Benchmarking and Profiling](#performance-analysis)
   - [CI](#ci)
   - [Project Management](#project-management)
+  - [Jupyter Notebooks](#jupyter-notebooks)
   - [Terminal UI](#terminal-ui)
   - [Graphviz](#graphviz)
 
@@ -518,6 +518,11 @@ _Utilities and libraries for (non-LP) code and project documentation_
 ## Project Management
 
 - [milestones](https://github.com/turbopape/milestones)
+
+## Jupyter Notebooks
+
+- [Clojupyter](https://github.com/clojupyter/clojupyter): A Jupyter kernel for Clojure - run Clojure code in Jupyter Lab, Notebook and Console.
+- [Clerk](https://github.com/nextjournal/clerk): Local-First Notebooks for Clojure - takes a Clojure namespace and turns it into a notebook.
 
 ## Terminal UI
 
