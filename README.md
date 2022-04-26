@@ -2,7 +2,7 @@
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [Penpot](https://penpot.app/): design and prototyping platform
-  - [LightTable (IDE)](http://lighttable.com/)
+  - [LightTable (IDE)](http://lighttable.com/) (archived)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
