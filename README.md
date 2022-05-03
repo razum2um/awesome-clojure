@@ -136,6 +136,7 @@
   * [Integrant](https://github.com/weavejester/integrant)
   * [clip](https://github.com/juxt/clip)
   * [piotr-yuxuan/closeable-map](https://github.com/piotr-yuxuan/closeable-map)
+  * [darkleaf/di](https://github.com/darkleaf/di)
 
 ## Build Automation and Package management
 
