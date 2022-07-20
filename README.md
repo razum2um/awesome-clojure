@@ -525,6 +525,11 @@ anylysis and visualization.*
   * [fsmviz](https://github.com/jebberjeb/fsmviz)
   * [rhizome](https://github.com/ztellman/rhizome)
 
+## Game Development
+  * [herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype written in Clojure and ClojureScript
+  * [racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) - A 3D racing game built with ClojureScript, React and ThreeJS
+  * [jme-clj](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
+
 ## Guides
 
   * [The Clojure Style Guide](https://github.com/bbatsov/clojure-style-guide)
