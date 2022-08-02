@@ -326,6 +326,7 @@
   * [core.async](https://github.com/clojure/core.async/)
   * [pulsar](https://github.com/puniverse/pulsar)
   * [manifold](https://github.com/ztellman/manifold)
+  * [goose](https://github.com/nilenso/goose)
 
 ## Monads
 
