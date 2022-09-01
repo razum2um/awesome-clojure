@@ -529,6 +529,7 @@ anylysis and visualization.*
   * [herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype written in Clojure and ClojureScript
   * [racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) - A 3D racing game built with ClojureScript, React and ThreeJS
   * [jme-clj](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
+  * [play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 
 ## Guides
 
