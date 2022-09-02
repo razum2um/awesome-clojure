@@ -30,6 +30,7 @@
   - [mal](https://github.com/kanaka/mal/tree/master/impls/clojure)
   - [scheje](https://github.com/turbopape/scheje)
   - [eden](https://github.com/benzap/eden)
+  - [ferret](https://ferret-lang.org)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Awesome macros usage](#awesome-macros-usage)
   - [Advanced datastructures](#advanced-datastructures)
