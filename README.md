@@ -22,6 +22,8 @@
   - [Nightcode](https://github.com/oakes/Nightcode): An IDE for Clojure (archived)
   - [Nightlight](https://github.com/oakes/Nightlight): text editor (archived)
   - [Atea](https://github.com/pkamenarsky/atea): a minimalistic menu bar time tracker for MacOS (legacy, requires jvm 1.6)
+  - [herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype written in Clojure and ClojureScript
+  - [racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) - A 3D racing game built with ClojureScript, React and ThreeJS
 - [Awesome SaaS (partially OSS) in Clojure](#awesome-saas-in-clojure)
   - [Logseq](https://github.com/logseq/logseq): knowledge management and collaboration (open frontend)
 - [Languages written with Clojure](#languages-written-with-clojure)
@@ -526,10 +528,7 @@ anylysis and visualization.*
   * [rhizome](https://github.com/ztellman/rhizome)
 
 ## Game Development
-  * [herfi](https://github.com/ertugrulcetin/herfi) - 3D multiplayer game prototype written in Clojure and ClojureScript
-  * [racing-game-cljs](https://github.com/ertugrulcetin/racing-game-cljs) - A 3D racing game built with ClojureScript, React and ThreeJS
   * [jme-clj](https://github.com/ertugrulcetin/jme-clj) - A Clojure 3D Game Engine (Wrapper), Powered by jMonkeyEngine
-  * [playcanvas-cljs-demo](https://github.com/ertugrulcetin/playcanvas-cljs-demo) - PlayCanvas ClojureScript Demo App
   * [play-cljc](https://github.com/oakes/play-cljc) - A Clojure and ClojureScript game library
 
 ## Guides
