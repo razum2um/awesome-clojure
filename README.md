@@ -470,6 +470,7 @@ anylysis and visualization.*
 
 ## Literate Programming
 
+  * [clerk](https://github.com/nextjournal/clerk)
   * [marginalia](https://github.com/gdeer81/marginalia)
   * [klipse](https://github.com/viebel/klipse)
 
