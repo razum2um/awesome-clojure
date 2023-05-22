@@ -505,6 +505,7 @@ anylysis and visualization.*
   * [figwheel](https://github.com/bhauman/lein-figwheel)
   * [ultra](https://github.com/venantius/ultra)
   * [mate-clj](https://github.com/AppsFlyer/mate-clj)
+  * [scope-capture](https://github.com/vvvvalvalval/scope-capture)
 
 ## CI
 
