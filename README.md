@@ -150,6 +150,7 @@
   * [Leiningen](https://github.com/technomancy/leiningen)
   * [Boot](https://github.com/boot-clj/boot)
   * [tools.build](https://www.clojure.org/guides/tools_build)
+    * [build.simple](https://github.com/gnl/build.simple)
   * [clojurephant](https://github.com/clojurephant/clojurephant) (Gradle plugin)
   * [shadow-cljs](https://github.com/thheller/shadow-cljs) (Clojurescript)
 
@@ -493,6 +494,8 @@ anylysis and visualization.*
 
 ## Debugging
 
+  * [flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger)
+  * [playback](https://github.com/gnl/playback)
   * [tools.trace](https://github.com/clojure/tools.trace)
   * [debugger](https://github.com/razum2um/clj-debugger)
   * [debug-repl](https://github.com/GeorgeJahad/debug-repl)
