@@ -581,6 +581,5 @@ anylysis and visualization.*
   * [rich4clojure](https://github.com/PEZ/rich4clojure)
   * [Wonderland Clojure Katas](https://github.com/gigasquid/wonderland-clojure-katas)
   * [Clojure Koans](http://clojurekoans.com)
-  * [Clojure Katas](http://clojurekatas.org)
   * [exercism.io](http://exercism.io/languages/clojure)
   * [Codewars](https://www.codewars.com/kata/search/clojure)
