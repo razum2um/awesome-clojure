@@ -5,6 +5,8 @@
   - [LightTable (IDE)](http://lighttable.com/) (archived)
   - [Maria.cloud (Online IDE for beginners)](https://www.maria.cloud/)
   - [Riemann (Monitoring)](http://riemann.io/)
+  - [Pitch](https://pitch.io): Beautiful presentations for you and your team
+  - [Whimsical](https://whimsical.com): Diagraming, whiteboarding and more
   - [Precursor (Online prototyping tool)](https://precursorapp.com/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
   - [PuppetDB](https://github.com/puppetlabs/puppetdb)
