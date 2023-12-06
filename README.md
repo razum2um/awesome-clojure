@@ -352,6 +352,7 @@
   * [test-doubles](https://github.com/GreenPowerMonitor/test-doubles) 
   * [kaocha](https://github.com/lambdaisland/kaocha)
   * [StateFlow](https://github.com/nubank/state-flow)
+  * [Datest](https://github.com/amokfa/datest)
 
 ## Webdriver automation
 
