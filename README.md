@@ -305,6 +305,8 @@
 
 *Libraries for validating data.*
 
+  * [Guardrails](https://github.com/fulcrologic/guardrails)
+  * [Malli](https://github.com/metosin/malli)
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema](https://github.com/plumatic/schema)
   * [Bouncer](https://github.com/leonardoborges/bouncer)
