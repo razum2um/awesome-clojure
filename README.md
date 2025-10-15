@@ -271,6 +271,7 @@
   * [Friend](https://github.com/cemerick/friend)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
   * [bolt](https://github.com/juxt/bolt)
+  * [EACL](https://github.com/theronic/eacl): ReBAC authorization library based on SpiceDB, backed by Datomic
 
 ## RESTful API
 
