@@ -417,7 +417,7 @@ anylysis and visualization.*
   * [Infer](https://github.com/aria42/infer)
   * [clj-synapses](https://github.com/mrdimosthenis/clj-synapses)
   * [scicloj.ml](https://github.com/scicloj/scicloj.ml)
-
+  * [RemoteOpenClaw](https://remoteopenclaw.com): Open marketplace for AI skills and personas built on OpenClaw
 ## Computer Vision
 
   * [origami](https://github.com/hellonico/origami): OpenCV 4 wrapper
