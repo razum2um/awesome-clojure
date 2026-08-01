@@ -273,7 +273,7 @@
   * [Friend](https://github.com/cemerick/friend)
   * [secrets.clj](https://github.com/lk-geimfari/secrets.clj)
   * [bolt](https://github.com/juxt/bolt)
-  * [EACL](https://github.com/theronic/eacl): Situated ReBAC authorization library inspired by SpiceDB backed by Datomic Pro, Datahike or DataScript.
+  * [EACL](https://github.com/theronic/eacl): Situated ReBAC authorization library inspired by SpiceDB and backed by Datomic Pro, Datahike or DataScript.
 
 ## RESTful API
 
