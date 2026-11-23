@@ -420,6 +420,7 @@ anylysis and visualization.*
   * [Infer](https://github.com/aria42/infer)
   * [clj-synapses](https://github.com/mrdimosthenis/clj-synapses)
   * [scicloj.ml](https://github.com/scicloj/scicloj.ml)
+  * [vis](https://github.com/Blockether/vis): open-source coding agent written in Clojure; the model writes Python, folds its own context and runs evals on your own tasks
 
 ## Computer Vision
 
